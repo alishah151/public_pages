@@ -1,0 +1,498 @@
+{
+  "generatedAt": "2026-11-18T07:50:50.207Z",
+  "disclaimer": "Automated research aid only — not licensed investment advice. Public snapshot from a private analyzer.",
+  "watchlist": {
+    "positions": [
+      {
+        "symbol": "EFERT",
+        "buyPrice": 197.6,
+        "boughtAt": "2026-07-16"
+      },
+      {
+        "symbol": "ENGROH",
+        "buyPrice": 284.47
+      },
+      {
+        "symbol": "FFC",
+        "buyPrice": 577.09
+      },
+      {
+        "symbol": "OGDC",
+        "buyPrice": 332.74
+      },
+      {
+        "symbol": "PIBTL",
+        "buyPrice": 17.03
+      }
+    ],
+    "updatedAt": "2026-11-16T15:40:00.000Z"
+  },
+  "bySymbol": [
+    {
+      "symbol": "EFERT",
+      "signal": "hold",
+      "bestBuy": 203,
+      "bestSell": 222,
+      "confidence": 0.58,
+      "rationale": "Hold the 16 July 2026 entry at 197.6. The last print in this feed is Monday’s close of 210.33, 6.4% above that cost. Monday’s session itself was +1.03%, and this morning’s file still has no 17 Nov bar. The PSX announcement list still ends with the 12 Nov dividend-credit notice. Nine months to 30 Sep 2026 produced consolidated profit of about Rs 16.2bn and EPS of Rs 12.16, against Rs 14.27bn and Rs 10.69, with Q3 EPS of Rs 6.83. Channel checks on 6 Nov marked Engro’s urea dealer price up Rs 50 a bag, to Rs 4,585, and the Q3 briefing said the company does not plan discounts. That is enough to keep the shares. Adding at 210 is a weak case: the one-month gain is about 8.9%, and the close is still 1.9% under the 12 Nov high of 214.42. October provisional urea offtake was 138k tons and a 28% share, down from the Q3 share of 38%, ten-month volume was about flat, debt was Rs 79bn against Rs 43bn at Dec 2025, and Dawn’s 16 Nov note flags winter gas load-management. The Rs 5.50 interim was credited on 11 Nov. The 3 Nov low of 197.06 is a nearby chart level, while the cost date remains 16 July. Add on a pullback to 203, near the 5 Nov low of 203.25, about 2.7% above the entry and 3.5% under the last close. A reduction fits nearer 222, about 12.3% above the entry and 5.5% above the last close.",
+      "todaySummary": "Tuesday 17 Nov 2026, morning slot. The quote in this run is still Monday’s close: the market file was fetched at 19:31 PKT on 16 Nov and has no 17 Nov bar. Monday opened at the low, 208.10, reached 211.48, and closed 210.33 on 2.80 million shares, up 1.03% from Friday’s 208.18. The close finished about two-thirds of the way up a Rs 3.38 range and 1.9% under the 12 Nov high of 214.42. Volume was about 2.1 times the 1.34 million 30-day average. A check of the PSX company page this morning still shows 12 Nov as the latest announcement. The +1.03% figure is Monday’s session. Holding-period P&L at 210.33 is +6.44% versus the 197.6 entry.",
+      "pastSummary": "The stated cost is 197.6 dated 16 July 2026. That session traded 192.00–194.70 and closed 193.95, so the average sits above the day’s range. At 210.33 the position is +6.44% versus that cost, before the Rs 5.50 interim credited on 11 Nov to holders through the 2–3 Nov book closure. On the same close the feed shows +8.9% over one month, +13.0% over three months, and −1.8% over one year. The 52-week range is 180.01–263.30; 210.33 is about 36% of the way up that range and 20.1% under the high. The three-month gain is the lift off the early-October base near 190, through 200 in the first week of November, including 5.04 million shares on 4 Nov. Nine-month 2026 consolidated EPS of Rs 12.16 versus Rs 10.69 has started to reverse FY2025 EPS of Rs 17.80, down from Rs 22.62. Price targets below exclude cash dividends.",
+      "news": [
+        {
+          "headline": "Fertiliser sector enters late 2026 with firmer urea demand and a winter gas risk",
+          "source": "Dawn",
+          "publishedAt": "2026-11-16T07:11:00+05:00",
+          "url": "https://www.dawn.com/news/2044623/fertiliser-sector-hopes-and-hurdles",
+          "stillMaterial": true,
+          "reason": "Still the latest sector piece, published Monday morning, with nothing newer on the company tape this morning. NFDC Kharif urea sales were up 8.4% and DAP offtake was down 25.4%. The food ministry’s Rabi urea need is put at 3.596 million tonnes. Winter gas load-management and LNG supply are the live production risk. Engro’s nine-month profit of Rs 16.2bn, up about 14%, is cited. The piece does not announce an Engro plant shutdown."
+        },
+        {
+          "headline": "Engro raises urea dealer price by Rs 50 a bag to Rs 4,585",
+          "source": "ProPakistani, citing JS Research channel checks",
+          "publishedAt": "2026-11-06T11:25:00+05:00",
+          "url": "https://propakistani.pk/2026/11/06/engro-fertilizers-hikes-urea-by-rs-50-to-rs-4585-a-bag/",
+          "stillMaterial": true,
+          "reason": "Sets the selling price into Rabi and matches the briefing stance against discounts. JS Research’s 6 Nov channel checks, not a company circular, put the dealer transfer price at Rs 4,585 after a Rs 50 increase, following a Rs 150 a bag increase in March. FFC followed with its own hike. The move supports Q4 margins if offtake holds at the higher price."
+        },
+        {
+          "headline": "October urea offtake up 39% year on year; EFERT’s share falls to 28%",
+          "source": "JS Global",
+          "publishedAt": "2026-11-04",
+          "url": "https://pub-c79447960b5d45a4a26817fa166cc61b.r2.dev/JS/2026/11/ugcPost-7523654498293231616/document.pdf",
+          "stillMaterial": true,
+          "reason": "Latest volume print, and it is provisional. Industry urea was about 487k tons, +39% year on year and −19% month on month after September stockpiling. EFERT was 138k tons, +13% year on year and −37% month on month, a 28% share. Ten-month volume of 1.386 million tons was −1% year on year. The Q3 share of 38% did not carry into October."
+        }
+      ],
+      "buyPrice": 197.6,
+      "pnlPct": 6.44,
+      "horizons": [
+        {
+          "horizon": "1m",
+          "targetPrice": 214,
+          "upsidePct": 8.3,
+          "downsidePct": -1.82,
+          "downsidePrice": 194,
+          "note": "Base case is a retest of the 12 Nov high at 214.42, rounded to 214: entry +8.3%, about +1.7% from the 210.33 last close. Monday’s low of 208.10 held on about 2.1 times average volume, with Rabi offtake as the support. A gas-curtailment headline is the path toward 194: entry −1.8%, about −7.8% from last, just under the 30 Oct close of 194.99."
+        },
+        {
+          "horizon": "3m",
+          "targetPrice": 220,
+          "upsidePct": 11.34,
+          "downsidePct": -4.86,
+          "downsidePrice": 188,
+          "note": "Window covers the Q4 result and the usual February final dividend. Nine-month dividends declared are Rs 9.25 versus Rs 11.00 at the same point last year, so the final has to do more work to match last year’s payout. Clearing inventory without urea discounts gets the price toward 220: entry +11.3%, about +4.6% from last. A production cut or a return to discounting points near 188: entry −4.9%, about −10.6% from last."
+        },
+        {
+          "horizon": "6m",
+          "targetPrice": 226,
+          "upsidePct": 14.37,
+          "downsidePct": -6.88,
+          "downsidePrice": 184,
+          "note": "PEF phase-2 compressors were guided for 1Q 2027, so this window includes that spend and the next Kharif setup. The Q3 gross margin near 35% has to show through without leaning on the one-off SIDC remeasurement gain. Target 226 is entry +14.4% and about +7.5% from last. Bear case 184 is entry −6.9% and about −12.5% from last, above the 180.01 low."
+        },
+        {
+          "horizon": "12m",
+          "targetPrice": 232,
+          "upsidePct": 17.41,
+          "downsidePct": -8.91,
+          "downsidePrice": 180,
+          "note": "Base is about 11.5 times a recovered earnings run-rate in the high teens to about Rs 20. Target 232 is entry +17.4% and about +10.3% from last, still about 12% under the 263.30 high. AKD’s Rs 264 December 2026 target needs a retest of that high and is a sell-side mark. Bear case 180 is entry −8.9% and about −14.4% from last, a revisit of the 180.01 low if farm incomes and winter gas both worsen. Price targets exclude cash dividends."
+        }
+      ],
+      "asOf": "2026-11-17T11:34:12.372Z",
+      "slot": "morning",
+      "disclaimer": "Automated research aid only — not licensed investment advice. Feeds may be delayed."
+    },
+    {
+      "symbol": "ENGRO",
+      "signal": "hold",
+      "bestBuy": null,
+      "bestSell": null,
+      "confidence": 0.68,
+      "rationale": "ENGRO last traded on 3 Jan 2025 at Rs 485.38 and PSX lists it delisted. The Islamabad High Court scheme made Engro Corporation a wholly owned subsidiary of Engro Holdings (ENGROH, formerly Dawood Hercules). Holders on the 8–14 Jan 2025 book received 2.24407865 ENGROH shares for each ENGRO share. A 460 entry marked only to that last ENGRO print is +5.5%, and that print cannot be sold. Marked through the swap at a delayed 16 Nov 2026 ENGROH price near Rs 279.4, the same entry is about Rs 627 per old share, about +36%, before fractional cash. Hold means keep those ENGROH shares and match them to the CDC statement. There is no ENGRO bid or offer, so no buy-more or sell price is proposed. The feed’s bullish moving averages, overbought RSI, fertilizer P/E premium and blank dividend yield describe a series that stops on the delisting date (319 of 320 bars use proxied highs and lows) and are not a live signal.",
+      "todaySummary": "No ENGRO session on 16 Nov 2026. The quote is the 3 Jan 2025 print: open 481.99, high 496.00, low 474.01, close 485.38, volume 4.50 million, +1.48% versus the 2 Jan close of 478.30. That close is 2.1% under the 496 high in the same feed. From the 22 Nov 2024 bar at 337.76 the close rose about 44% into the last day, on volume about twice the 30-day average. Bars before 3 Jan 2025 show high equal to low equal to close, so the path of the range is not reliable. traded_today is false and days_since_trade is 682.",
+      "pastSummary": "The supplied 1m / 3m / 1y figures end on 3 Jan 2025, not on 16 Nov 2026: +28.5% (1m), +50.5% (3m) and +51.1% (1y) into the 485.38 last close. Stats put the pre-delisting 52-week range at about 285–496; the quote block’s 474–496 “52-week” range is the last session only. Since the last trade the economic path is ENGROH. The scheme’s ex-price math is 485.38 / 2.24407865 ≈ Rs 216.3 on 6 Jan 2025. A delayed third-party ENGROH quote on 16 Nov 2026 was about Rs 279.4 (day roughly 277–280, 52-week about 209–302.5), so the package received per old ENGRO share is about Rs 627 versus the 460 entry.",
+      "news": [
+        {
+          "headline": "PSX scheme report: Engro Corporation merged into Engro Holdings at 1:2.244 on 14 Jan 2025",
+          "source": "Pakistan Stock Exchange",
+          "publishedAt": "2025-01-14",
+          "url": "https://www.psx.com.pk/psx/themes/psx/uploads/Scheme-of-Arrangement-Report-14-Jan-2025.pdf",
+          "stillMaterial": true,
+          "reason": "This is why the ticker is dead. Each ENGRO share became 2.244 ENGROH shares (company notice: 2.24407865). That ratio, not the frozen 485.38 print, is the holding against the 460 entry."
+        },
+        {
+          "headline": "Book closure and last trading day: ENGRO last traded 3 Jan 2025; DH Corp (now ENGROH) went ex on 6 Jan 2025",
+          "source": "PSX company notice",
+          "publishedAt": "2024-12-19",
+          "url": "https://dps.psx.com.pk/download/document/244275.pdf",
+          "stillMaterial": true,
+          "reason": "The book (8–14 Jan 2025) is long closed, and the swap ratio still decides whether this lot is ENGROH. If the CDC statement has no ENGROH credit for this purchase, the 485.38 quote is not recoverable."
+        },
+        {
+          "headline": "Engro Holdings 9M 2026 results: consolidated PAT Rs 48.42bn, EPS Rs 24.33, no dividend",
+          "source": "PSX filing (ENGROH)",
+          "publishedAt": "2026-10-28T15:13:00+05:00",
+          "url": "https://finhisaab.com/stocks/psx-announcements/psx-ann-bc78cdbeec93243f1ec9f25a/engroh-engro-holdings-reports-9m-2026-consolidated-pat-at-pkr-48-422-million",
+          "stillMaterial": true,
+          "reason": "Material only for shares already swapped into ENGROH. Headline profit is down versus 2025 one-offs; the company’s core owners’ profit rose about 36%. Buyback was about 80% done (36.2 million shares at about Rs 274.13) as of 25 Oct 2026. No cash dividend, bonus or rights."
+        },
+        {
+          "headline": "Engro Corporation agreed to sell its 56.19% EPCL stake to Lotte Chemical Pakistan for Rs 19.7bn",
+          "source": "Disclosed with ENGROH 9M 2026 results",
+          "publishedAt": "2026-08-31",
+          "url": "https://margin.pk/announcements/engroh/170227-announcement-of-financial-results-for-the-nine-months-ended-september-30-2026-consolidated-and-standalone",
+          "stillMaterial": true,
+          "reason": "EPCL is held for sale and CCP approval was reported in October 2026, with other conditions still open as of mid-November commentary. It changes Engro Holdings’ portfolio. It does not restore an ENGRO quote."
+        },
+        {
+          "headline": "Credit of third interim cash dividend",
+          "source": "PSX announcement (ENGRO)",
+          "publishedAt": "2024-11-20",
+          "url": "https://dps.psx.com.pk/company/ENGRO",
+          "stillMaterial": false,
+          "reason": "A pre-delisting cash credit. This feed’s empty dividend history starts 4 Nov 2024 and does not prove Engro never paid. It has no claim on a 16 Nov 2026 buyer of the dead ticker."
+        }
+      ],
+      "buyPrice": 460,
+      "pnlPct": 5.52,
+      "horizons": [
+        {
+          "horizon": "1m",
+          "targetPrice": null,
+          "upsidePct": null,
+          "downsidePct": null,
+          "downsidePrice": null,
+          "note": "ENGRO has no market over the next month. Any 1m move sits on ENGROH, which was up about 5% over the prior month into 16 Nov 2026 and is outside this ticker."
+        },
+        {
+          "horizon": "3m",
+          "targetPrice": null,
+          "upsidePct": null,
+          "downsidePct": null,
+          "downsidePrice": null,
+          "note": "No ENGRO target. ENGROH’s prior 3 months were about +1% and still under its 52-week high near 302.5. The EPCL sale to Lotte remains a completion item, not a reason to price ENGRO."
+        },
+        {
+          "horizon": "6m",
+          "targetPrice": null,
+          "upsidePct": null,
+          "downsidePct": null,
+          "downsidePrice": null,
+          "note": "No cash yield is visible on ENGRO, and ENGROH paid no 9M 2026 dividend. The buyback window closed 25 Oct 2026 (36.2 million shares, average about Rs 274). That support does not create an ENGRO exit."
+        },
+        {
+          "horizon": "12m",
+          "targetPrice": null,
+          "upsidePct": null,
+          "downsidePct": null,
+          "downsidePrice": null,
+          "note": "Successor earnings are the only 12-month story: 9M 2026 consolidated PAT Rs 48.4bn and EPS Rs 24.33, with core owners’ profit up about 36% after 2025 one-offs. A bear mark near ENGROH’s Rs 209 52-week low is still about Rs 469 per old ENGRO share, just above the 460 entry. These are ENGROH scenarios, not ENGRO prices."
+        }
+      ],
+      "asOf": "2026-11-16T12:50:12.230Z",
+      "slot": "manual",
+      "disclaimer": "Automated research aid only — not licensed investment advice. Feeds may be delayed."
+    },
+    {
+      "symbol": "ENGROH",
+      "signal": "hold",
+      "bestBuy": 270,
+      "bestSell": 302,
+      "confidence": 0.52,
+      "rationale": "Hold the 284.47 entry. Tuesday’s cash last of 276.22, as of 15:49 PKT, is 2.9% under that cost. boughtAt is null, so the −2.9% is the holding result and not a date-matched trade. The session itself was −1.14% (Rs 3.20) from Monday’s 279.42. The open was 281.00, the high of 282.20 cleared the 11 Nov high of 282 by Rs 0.20, and the last finished at 276.22, near the 275.60 low. Volume was 0.96 million, about 0.9 times the supplied 30-day average of 1.06 million. The closed period is now in force, 17–24 Nov, so directors and executives cannot deal before the 24 Nov 11:00 PKT board meeting, and the notice still does not name the corporate action. Nine-month consolidated EPS is Rs 24.33. The buyback is finished at an average Rs 274.13, and 276.22 is only 0.8% above that average. Add near 270, the 4–6 Nov shelf, under both the entry and that average. A reduction still fits at 302, the February 2026 high, about 6.2% above the entry and about 9.3% above this last. No filing is dated 17 Nov.",
+      "todaySummary": "Tuesday 17 Nov 2026 cash session on the PSX company page, as of 15:49 PKT. The scheduled quote in this run was still Monday’s close of 279.42, +0.71%. The cash print is last 276.22, open 281.00, high 282.20, low 275.60, volume 958,432, LDCP 279.42, down Rs 3.20 or 1.14%. The circuit is 251.48–307.36. The high took out the 11 Nov high of 282 by Rs 0.20, and the last finished Rs 5.98 under that high, about a tenth of the way up a Rs 6.60 range. That −1.14% is the session move only. The holding result versus the 284.47 entry is −2.9%. The November contract on the same page (high 282.83, close 277.34) is a different instrument. No ENGROH filing is dated 17 Nov. The closed period that starts today runs through 24 Nov.",
+      "pastSummary": "On Monday’s 279.42 close the supplied stats were +6.9% over one month, +1.8% over three months, and +27.8% over one year, inside a 52-week range of 209.03–302.50. At 276.22 the PSX page prints the one-year change at +26.34% and the year-to-date change at +16.42%; the 52-week range is unchanged. 276.22 sits about 72% of the way up that range and 8.7% under 302.50. The three-month figure was small because the slide to a 245.46 close on 23 Oct gave back the summer and the rally into 11–16 Nov had mostly recovered it; Tuesday gave back part of that rally. The page P/E of 35.28× is the unconsolidated figure. Consolidated nine-month EPS remains Rs 24.33.",
+      "news": [
+        {
+          "headline": "Board meets 24 Nov to consider unnamed corporate actions; closed period 17–24 Nov",
+          "source": "PSX filing, Engro Holdings",
+          "publishedAt": "2026-11-16T15:09:30+05:00",
+          "url": "https://dps.psx.com.pk/download/document/289290.pdf",
+          "stillMaterial": true,
+          "reason": "Still the live event. The board meets Tuesday 24 Nov at 11:00 PKT at the Harbor Front office to consider corporate actions the notice does not name. The closed period is 17–24 Nov inclusive and is now in force, so no director, CEO, or executive may deal until it ends. No later filing on 17 Nov names the action."
+        },
+        {
+          "headline": "Nine-month 2026 results: consolidated EPS Rs 24.33, no interim dividend",
+          "source": "PSX filing, Engro Holdings",
+          "publishedAt": "2026-10-28",
+          "url": "https://dps.psx.com.pk/download/document/287404.pdf",
+          "stillMaterial": true,
+          "reason": "Still the latest accounts. Consolidated owners’ profit is about Rs 29.1bn and EPS is Rs 24.33. The 28 Oct board declared no interim cash dividend. The page P/E of 35.28× is the unconsolidated lens; the consolidated nine-month run-rate is the earnings base for the next two quarters."
+        },
+        {
+          "headline": "Buyback complete: 36.23 million shares purchased for Rs 9.93bn and cancelled",
+          "source": "PSX filing, Engro Holdings",
+          "publishedAt": "2026-11-05",
+          "url": "https://dps.psx.com.pk/download/document/288654.pdf",
+          "stillMaterial": true,
+          "reason": "The purchase window is closed, so the company is no longer a buyer. It bought 36,231,994 shares for Rs 9.93bn, an average of Rs 274.13, and cancelled them. Tuesday’s last of 276.22 is only 0.8% above that average. What remains is the smaller share count, and the bid under the price is gone."
+        }
+      ],
+      "buyPrice": 284.47,
+      "pnlPct": -1.78,
+      "horizons": [
+        {
+          "horizon": "1m",
+          "targetPrice": 282,
+          "upsidePct": -0.87,
+          "downsidePct": -5.79,
+          "downsidePrice": 268,
+          "note": "Tuesday’s high of 282.20 already tagged the prior 282 retest and failed; the last is 276.22. Base case stays 282: entry −0.9%, about +2.1% from last. The closed period runs through the 24 Nov meeting, and the notice still names no action. A loss of today’s 275.60 low, then the 12 Nov low at 272.40, opens 268: entry −5.8%, about −3.0% from last. No cash dividend is scheduled in this window."
+        },
+        {
+          "horizon": "3m",
+          "targetPrice": 296,
+          "upsidePct": 4.05,
+          "downsidePct": -11.41,
+          "downsidePrice": 252,
+          "note": "Covers the December year-end and the run-up to full-year numbers. A named action on 24 Nov would reset this path. Until then the base case is 296, into the February 2026 supply under 302.50: entry +4.1%, about +7.2% from last. A delay on the EPCL conditions points back to 252, into the late-October shelf: entry −11.4%, about −8.8% from last."
+        },
+        {
+          "horizon": "6m",
+          "targetPrice": 308,
+          "upsidePct": 8.27,
+          "downsidePct": -15.63,
+          "downsidePrice": 240,
+          "note": "The 3 Nov briefing guided an EPCL close by end-1Q 2027, so this window includes that cash. A completed sale that is redeployed supports a test of 308, just through the 302.50 high: entry +8.3%, about +11.5% from last. If the sale slips, the bear case is 240, just under the late-October washout: entry −15.6%, about −13.1% from last."
+        },
+        {
+          "horizon": "12m",
+          "targetPrice": 320,
+          "upsidePct": 12.49,
+          "downsidePct": -22.66,
+          "downsidePrice": 220,
+          "note": "Base case of 320 assumes another year near the nine-month earnings run-rate and a modest break of the 302.50 high: entry +12.5%, about +15.8% from last. AKD’s December 2026 mark of 351 is about 27% above this last and stays outside the base case. Bear case 220 stays above the 209.03 low: entry −22.7%, about −20.4% from last. The base case has no cash dividend; the last distribution was the buyback."
+        }
+      ],
+      "asOf": "2026-11-17T11:35:10.417Z",
+      "slot": "morning",
+      "disclaimer": "Automated research aid only — not licensed investment advice. Feeds may be delayed."
+    },
+    {
+      "symbol": "FFC",
+      "signal": "hold",
+      "bestBuy": 549,
+      "bestSell": 599,
+      "confidence": 0.58,
+      "rationale": "Hold the 577.09 entry. The feed is still the 16 Nov close of 566.59, 1.82% under that cost; Monday's session was -0.44% on about 0.62 times the 30-day average volume. FFC's 17 Nov letter (ref 6.4-K/SD/FFC) says the third interim of Rs 18.50, 185%, was credited to shareholders' IBAN accounts today. Yesterday the payment was still split on vendor calendars between 23 and 30 Nov. boughtAt is blank, and 577.09 printed on 4 Nov, before the 6 Nov ex-date, and again on 11 and 12 Nov, after book closure, so the Rs 18.50 stays off this lot. The -1.82% is the price gap only; the cash would be about 3.2% of the entry if the lot was on the register. Nine-month consolidated profit was Rs 71.02bn, EPS Rs 48.77 against Rs 43.30, and standalone EPS was Rs 44.59 against Rs 40.50, a quote multiple near 10.2x. October urea of about 257k tons was roughly a 53% share, and the 7 Nov Sona hike of Rs 54 a bag is already in the tape. Winter gas load-management remains the open operating risk. A PSX page at 15:39 PKT showed a Tuesday range of 566.48-570; this feed's mark stays 566.59. Add on a pullback to 549, the 28 Oct breakout close, 4.9% under the entry and about 3.1% under the last. A reduction fits nearer 599, 3.8% above the entry and about 5.7% above the last.",
+      "todaySummary": "Morning of Tuesday 17 Nov 2026. This feed's last is still Monday's close: 566.59, down 0.44% from Friday's 569.12, volume 0.62 million, about 0.62 times the 1.00 million 30-day average. No 17 Nov bar is in the feed. A PSX company page refreshed at 15:39 PKT showed a day range of 566.48-570 and a high of 570, with the circuit still 509.93-623.25 off the 566.59 prior close, and it gave no last or volume, so 566.59 remains the mark. The new company item is cash, not a price print. The investor-relations letter of 17 Nov says the third interim of Rs 18.50 (185%) for the year ending 31 Dec 2026 was credited to IBAN accounts on Tuesday 17 Nov. Book closure had already ended on 11 Nov. The buy date on this lot is blank, so the credit is for the register, and this note leaves the lot's entitlement open. The leftover XD badge is the 6 Nov ex-date.",
+      "pastSummary": "The 566.59 mark versus the 577.09 entry is -1.82% of holding-period price P&L. boughtAt is null, so no purchase date is taken from a bar. Stats on this close: +5.3% over one month, +2.5% over three months, and +5.6% over one year. The 52-week range is 470.06-685; 566.59 sits about 45% of the way up and 17.3% under the high. The three-month path is the late-October base, the 28 Oct breakout close at 549.1, the run into the 5 Nov close of 584.24, and the 6 Nov ex-dividend close of 562.62. Rs 18.50 is 3.2% of the entry and 3.3% of the last, and it sits outside the -1.82% price gap. The prior count of about Rs 50 of cash that went ex over twelve months already included this interim, about an 8.8% yield at 566.59. The feed yield of 9.24% and a trailing DPS of Rs 31.50 still read as if they omit this payout.",
+      "news": [
+        {
+          "headline": "FFC credits the Rs 18.50 third interim to IBAN accounts",
+          "source": "PSX filing, Fauji Fertilizer Company",
+          "publishedAt": "2026-11-17T14:44:00+05:00",
+          "url": "https://dps.psx.com.pk/download/document/289365.pdf",
+          "stillMaterial": true,
+          "reason": "Letter ref 6.4-K/SD/FFC says the third interim for 2026 of Rs 18.50 per share (185%), for the year ending 31 Dec 2026, was credited to shareholders' IBAN accounts on 17 Nov 2026. That sets the payment date. Entitlement required a holding at the 6 Nov ex-date; book closure ended 11 Nov. boughtAt is blank, so the cash is not added to the -1.82% price P&L."
+        },
+        {
+          "headline": "Fertiliser sector enters late 2026 with firmer urea demand and a winter gas risk",
+          "source": "Dawn",
+          "publishedAt": "2026-11-16T07:11:00+05:00",
+          "url": "https://www.dawn.com/news/2044623/fertiliser-sector-hopes-and-hurdles",
+          "stillMaterial": true,
+          "reason": "Still the latest sector piece. NFDC Kharif urea sales were up 8.4% and DAP offtake down 25.4%. Rabi urea need is put at 3.596 million tonnes and DAP at 838k tonnes. Winter gas load-management and LNG supply remain the live risk. No FFC plant shutdown has been announced since."
+        },
+        {
+          "headline": "FFC raises Sona urea by Rs 54 a bag",
+          "source": "ProPakistani, citing Topline Research",
+          "publishedAt": "2026-11-07T15:58:00+05:00",
+          "url": "https://propakistani.pk/2026/11/07/urea-prices-rise-again-as-ffc-announces-fresh-hikes/",
+          "stillMaterial": true,
+          "reason": "Still the Rabi list price, and no newer FFC hike turned up on 17 Nov. Maximum retail price of Sona Urea Prilled is Rs 4,579 a bag and Sona Urea Granular is Rs 4,803, after Engro's Rs 50 dealer-price increase on 6 Nov. It supports fourth-quarter margins if offtake holds at the higher price."
+        }
+      ],
+      "buyPrice": 577.09,
+      "pnlPct": -1.82,
+      "horizons": [
+        {
+          "horizon": "1m",
+          "targetPrice": 580,
+          "upsidePct": 0.5,
+          "downsidePct": -4.87,
+          "downsidePrice": 549,
+          "note": "580 is entry +0.5% and about +2.4% from 566.59, a return of the cost and a move above the 10-11 Nov closes near 574. The Rs 18.50 is already ex and, for holders on the register, was credited today, so the month turns on offtake at the higher urea price. Downside 549 is entry -4.9% and about -3.1% from last, the 28 Oct breakout close. Nearby support is Monday's low area around 565, then the 6 Nov close of 562.62. A winter gas cut at the SNGPL-linked plants is the path to 549."
+        },
+        {
+          "horizon": "3m",
+          "targetPrice": 608,
+          "upsidePct": 5.36,
+          "downsidePct": -7.29,
+          "downsidePrice": 535,
+          "note": "608 is entry +5.4% and about +7.3% from last. The window covers the Q4 result and the usual late-January final. October urea share near 53%, and a sale of the 181k-ton September DAP stock at the post-hike urea price, is the path. Downside 535 is entry -7.3% and about -5.6% from last, the October shelf, if output is cut or DAP is written down."
+        },
+        {
+          "horizon": "6m",
+          "targetPrice": 630,
+          "upsidePct": 9.17,
+          "downsidePct": -9.55,
+          "downsidePrice": 522,
+          "note": "630 is entry +9.2% and about +11.2% from last, through the next interim and the Kharif setup. It needs borrowings of Rs 84.1bn, the about Rs 31bn PIA investment, and phosphoric-acid costs to stop climbing; the policy rate is already 12% after the October increase. Downside 522 is entry -9.5% and about -7.9% from last, under the October base and above the 470.06 low."
+        },
+        {
+          "horizon": "12m",
+          "targetPrice": 650,
+          "upsidePct": 12.63,
+          "downsidePct": -13.36,
+          "downsidePrice": 500,
+          "note": "650 is entry +12.6% and about +14.7% from last, about 11 times a standalone run-rate near Rs 59 if the fourth quarter beats 2025's roughly Rs 11, and still under the 685 high. Cash dividends are the larger part of a one-year return and sit outside this price target. Downside 500 is entry -13.4% and about -11.8% from last if DAP stays hard to sell and winter gas cuts production."
+        }
+      ],
+      "asOf": "2026-11-17T11:35:03.568Z",
+      "slot": "morning",
+      "disclaimer": "Automated research aid only — not licensed investment advice. Feeds may be delayed."
+    },
+    {
+      "symbol": "OGDC",
+      "signal": "hold",
+      "bestBuy": 308,
+      "bestSell": 348,
+      "confidence": 0.56,
+      "rationale": "Hold the 332.74 historical entry. The morning feed is still Monday’s close of 316.21, so the quote’s +0.11% is that session’s move from 315.87 and the unrealized loss versus entry is unchanged at 4.97%. Brent was $91.66 by 09:30 PKT, down 0.8% on the day (early print $92.00), below the ~$95.37 early-Monday figure in the prior note and still above Q1 realised crude of $74.90. No new company filing. FBR’s STGO 36, reported this morning, puts OGDCL on digital sales-tax invoicing from the December 2026 return, a compliance step. The stay-in case remains the September quarter — sales Rs 132.4bn, profit Rs 58.5bn, EPS Rs 13.60 versus Rs 8.91 — and the 6 Nov production guide of 8–10%. Add zone stays 308; trim stays 348.",
+      "todaySummary": "17 Nov morning feed: last 316.21, quote +0.11%, the same price as the 16 Nov close (315.87 on 13 Nov). No 17 Nov bar is in the tape, so this is not a new session move. Brent $91.66 at 09:30 PKT (−0.8%); the 06:02 PKT print was $92.00 (−0.5%). filingsHint empty.",
+      "pastSummary": "Cost basis 332.74 with no buy date on file. Holding-period P&L at 316.21 is −4.97%. The Rs 5 first interim went ex on 10 Nov and the company chronology shows payment on 12 Nov, so that cash sits apart from the remaining price gap. Tape returns are about +4.6% over one month, −1.6% over three months and +28.4% over one year, inside a 52-week range of 243.9–352.",
+      "news": [
+        {
+          "headline": "Brent at $91.66 as the IEA surplus call outweighs continued Gulf shipping attacks",
+          "source": "Arab News (Reuters); CNBC",
+          "publishedAt": "2026-11-17T09:30:00+05:00",
+          "url": "https://www.arabnews.com/energy/oil-slips-as-recovering-mideast-exports-blunt-gulf-tensions-3012412",
+          "stillMaterial": true,
+          "reason": "Live macro print for this morning. Brent was $92.00, down 0.5%, at 06:02 PKT and $91.66, down 0.8%, by 09:30 PKT, with WTI at $84.99. That is below the ~$95.37 early-Monday figure used in the prior note; Monday’s settle implied by the −0.5% print is near $92.4. The IEA’s Friday call of a fourth-quarter surplus, with Middle East exports recovering faster than demand, is unchanged, and Hormuz throughput was cited at 49% of pre-war levels. Spot remains above OGDC’s Q1 realised crude of $74.90; the narrower premium is what caps a rerate from 316."
+        },
+        {
+          "headline": "Q1 FY27: profit Rs 58.5bn, EPS Rs 13.60, highest-ever first interim of Rs 5",
+          "source": "PSX filing, OGDCL",
+          "publishedAt": "2026-10-30",
+          "url": "https://dps.psx.com.pk/download/document/287865.pdf",
+          "stillMaterial": true,
+          "reason": "Still the latest accounts. Sales Rs 132.419bn versus Rs 96.192bn, profit Rs 58.513bn versus Rs 38.305bn, EPS Rs 13.60 versus Rs 8.91, gross profit about 63% of sales. Realised prices were crude $74.90 a barrel, gas Rs 796.08 per Mcf and LPG Rs 173,350 a ton. Trade debts were Rs 595.6bn. No newer financial filing this morning."
+        },
+        {
+          "headline": "Corporate briefing: curtailment EPS hit Rs 1.20, collections at 100%, FY27 production guide 8–10%",
+          "source": "PSX briefing, OGDCL",
+          "publishedAt": "2026-11-06",
+          "url": "https://dps.psx.com.pk/download/document/288709.pdf",
+          "stillMaterial": true,
+          "reason": "Guidance from the 6 Nov session is still in force. Curtailment was 1,254 barrels a day of oil, 94 mmcfd of gas and 5 tons a day of LPG, a Rs 9.7bn sales loss and an EPS impact of Rs 1.20. Management guided 8–10% production growth in FY27 against a 16% natural decline, and collections were 100% of billings in FY26 and the quarter. The accumulated Rs 595.6bn receivable remains the cash constraint that the collection rate does not retire."
+        }
+      ],
+      "buyPrice": 332.74,
+      "pnlPct": -4.97,
+      "horizons": [
+        {
+          "horizon": "1m",
+          "targetPrice": 322,
+          "upsidePct": -3.23,
+          "downsidePct": -8.64,
+          "downsidePrice": 304,
+          "note": "Entry −3.2% at 322; about +1.8% from 316.21. Bear 304 is entry −8.6%, about −3.9% from last. The open walks in with Brent at $91.66, which trims the premium over the $74.90 Q1 realised crude."
+        },
+        {
+          "horizon": "3m",
+          "targetPrice": 336,
+          "upsidePct": 0.98,
+          "downsidePct": -11.04,
+          "downsidePrice": 296,
+          "note": "Entry +1.0% at 336, back through the 332.74 cost; about +6.3% from last. Bear 296 is entry −11.0%, about −6.4% from last. Needs the December quarter to show Bitrism East-1 volumes and the 8–10% FY27 production guide."
+        },
+        {
+          "horizon": "6m",
+          "targetPrice": 348,
+          "upsidePct": 4.59,
+          "downsidePct": -14.05,
+          "downsidePrice": 286,
+          "note": "Entry +4.6% at 348, in line with the trim level; about +10.1% from last. Bear 286 is entry −14.0%, about −9.6% from last. Assumes curtailment stays near the Rs 1.20 EPS hit disclosed on 6 Nov and collections hold."
+        },
+        {
+          "horizon": "12m",
+          "targetPrice": 360,
+          "upsidePct": 8.19,
+          "downsidePct": -18.86,
+          "downsidePrice": 270,
+          "note": "Entry +8.2% at 360; about +13.8% from last. Bear 270 is entry −18.9%, about −14.6% from last. Clearing the 352 52-week high needs oil and the Rs 595.6bn trade-debt stock to cooperate."
+        }
+      ],
+      "asOf": "2026-11-17T11:33:31.180Z",
+      "slot": "morning",
+      "disclaimer": "Automated research aid only — not licensed investment advice. Feeds may be delayed."
+    },
+    {
+      "symbol": "PIBTL",
+      "signal": "hold",
+      "bestBuy": 13,
+      "bestSell": 16.2,
+      "confidence": 0.56,
+      "rationale": "Hold the 17.03 shares. The morning quote is unchanged at Monday's 14.00 close, so the holding result stays −17.79% versus that entry. boughtAt is blank, so the fill date stays unknown. The quote's +2.49% is Monday's session versus Friday's 13.66 close. A DPS page timestamped 14:09 PKT on 17 Nov shows Tuesday open 14.18 inside a 14.00–14.30 range, with the market cap implying about 14.12; that is a delayed intraday print, and the close is still ahead of this feed. It does not reach the 13.00 add or the 16.20 trim. No filing is dated 16 or 17 Nov. FY26 earned Rs 1.89 a share and the quarter to 30 September 2026 earned Rs 0.45, so trailing earnings are about Rs 1.99: 7.0 times at 14.00 and 8.6 times at the 17.03 cost. Equity at 30 September is about Rs 19.65 billion, roughly Rs 11 a share, so 14.00 is 1.3 times book. A sale at 14.00 would crystallise the 17.8% holding gap on a terminal that is earning. A fresh buy at 14.00 is the weak trade after Monday's 33.9 million shares, a 14.45 high and a close back at 14.00, with no filing behind the volume. FY26 repaid Rs 4.47 billion of debt and left long-term debt near Rs 3.5 billion. The September quarter turned about Rs 39 million of operating cash against profit of Rs 810 million. FY26 includes a fire-insurance settlement of USD 2.85 million. Directors link the coal surge to RLNG scarcity, regional supply disruptions and the closed Afghan border, and they expect near-term volumes at or above FY26's 7.60 million tons. Financing covenants still have to be met before a dividend, and unprovided tax demands of about Rs 1.99 billion (tax year 2020) and Rs 0.25 billion (tax year 2022) remain before the tribunal. The Reko Diq review runs to mid-2027, so those tonnes sit outside this year's earnings. The bid to add is 13.00, under Monday's 13.77 low. A reduction fits at 16.20, the 200-day average on the 13 Nov snapshot, 4.9% under the 17.03 cost. The 12-month base stays about Rs 15.90.",
+      "todaySummary": "Tuesday 17 Nov 2026 morning slot. The supplied quote is 14.00, change_pct +2.49, with no 17 Nov bar and ldcp null. That +2.49% is Monday 16 Nov versus Friday 13 Nov close of 13.66: open 13.90, high 14.45, low 13.77, close 14.00, volume 33.93 million, about 3.2 times the 10.57 million 30-day average. A DPS company page timestamped 14:09 PKT on 17 Nov, after this morning window and before the usual 15:30 close, shows open 14.18, day range 14.00–14.30, 526 trades, a 10% band of 12.60–15.40 around 14.00, P/E 7.10 and a market cap implying about 14.12. That print is delayed and is not the close. No PSX filing is dated 16 or 17 Nov. The announcements list still ends with the 30 Oct quarterly report.",
+      "pastSummary": "Entry is 17.03 and boughtAt is blank, so the fill date is unknown and is left undated. At the supplied last of 14.00 the holding result is −17.79%. Stats on that last: +2.1% over one month, −16.4% over three months, and −7.7% over one year. The cached quote block prints the year at −5.4%. Trailing earnings are about Rs 1.99 (FY26 EPS Rs 1.89, less Q1 FY26 Rs 0.35, plus Q1 FY27 Rs 0.45), so 14.00 is 7.0 times and the 17.03 cost is 8.6 times. Equity at 30 Sep 2026 is about Rs 19.65 billion on 1,786 million shares, about Rs 11 a share; 14.00 is 1.3 times book. The 52-week range is 12.35–22.97, and 14.00 sits about 16% of the way up that range.",
+      "news": [
+        {
+          "headline": "Q1 FY27: profit Rs 810 million, EPS Rs 0.45, cargo 2.38 million tons, no dividend",
+          "source": "PSX filing, PIBTL",
+          "publishedAt": "2026-10-27T15:17:00+05:00",
+          "url": "https://dps.psx.com.pk/download/document/287105.pdf",
+          "stillMaterial": true,
+          "reason": "Still the latest accounts. PSX shows Q1 FY27 sales Rs 5,120 million, profit Rs 810 million and EPS Rs 0.45, against Rs 3,980 million, Rs 617 million and Rs 0.35 a year earlier. Cargo was 2.38 million tons against 1.87 million. The board recommended nil dividend, bonus and rights. The quarterly report followed on 30 Oct. The DPS announcements list on 17 Nov still ends there, so Monday's volume and Tuesday's early range did not change these figures."
+        },
+        {
+          "headline": "FY26 profit Rs 3.37 billion, EPS Rs 1.89; dividend subject to financing covenants",
+          "source": "PIBTL directors' report",
+          "publishedAt": "2026-10-06T12:04:00+05:00",
+          "url": "https://pibt.com.pk/wp-content/uploads/2026/10/Directors-Report-English.pdf",
+          "stillMaterial": true,
+          "reason": "This is the year the 7.0 times multiple is set against. Revenue Rs 16.39 billion versus Rs 9.97 billion, profit Rs 3,373 million versus a loss of Rs 258 million, EPS Rs 1.89 versus −0.14, cargo 7,595,432 tons versus 4,793,326. Debt repayments were Rs 4,467 million and long-term debt was Rs 3,496 million at 30 Jun. The board recommended no dividend because of financing restrictions. Directors expect short- to medium-term volumes at or above FY26. No newer annual filing appeared by this morning."
+        },
+        {
+          "headline": "PQA supplemental concession and Reko Diq handling agreement; review runs to mid-2027",
+          "source": "Dawn; PIBTL directors' report",
+          "publishedAt": "2025-12-16",
+          "url": "https://www.dawn.com/news/1961372",
+          "stillMaterial": true,
+          "reason": "Dawn reported on 16 Dec 2025 that PIBTL signed with Reko Diq Mining Company after a supplemental agreement with Port Qasim Authority, with exports then scheduled from 2028. PSX logged the material notice on 15 Dec 2025. The FY26 directors' report, dated 21 Sep 2026, confirms the 12 Dec 2025 supplemental concession for non-exclusive minerals and metals inside the existing BOT, and says the Reko Diq review continues until mid-2027. It remains a reason to keep the holding. It is unchanged this morning and those tonnes sit outside this year's earnings."
+        }
+      ],
+      "buyPrice": 17.03,
+      "pnlPct": -17.79,
+      "horizons": [
+        {
+          "horizon": "1m",
+          "targetPrice": 14.1,
+          "upsidePct": -17.2,
+          "downsidePct": -24.84,
+          "downsidePrice": 12.8,
+          "note": "Base is 14.10, entry −17.2%; about +0.7% from the supplied last of 14.00. That sits under Monday's 14.45 high and the 11 Nov high of 14.24. The next result is the December quarter. The 13 Nov vessel list, still the latest, shows Dixon confirmed for 17 Nov at about 60,000 tons and further coal cargoes through early December. A give-back of Monday's 33.9 million-share spike points at the 2–3 Nov closes near 12.80, entry −24.8%; about −8.6% from last, above the 12.35 low."
+        },
+        {
+          "horizon": "3m",
+          "targetPrice": 14.8,
+          "upsidePct": -13.09,
+          "downsidePct": -27.19,
+          "downsidePrice": 12.4,
+          "note": "Window covers the quarter to 31 Dec and the usual February print. Another quarter near Q1's 2.38 million tons and Rs 0.45 can carry the price through 14.45 toward 14.80, entry −13.1%; about +5.7% from last. If the RLNG, border and regional drivers fade, the path is a retest of the 12.35 low, marked at 12.40, entry −27.2%; about −11.4% from last."
+        },
+        {
+          "horizon": "6m",
+          "targetPrice": 15.3,
+          "upsidePct": -10.16,
+          "downsidePct": -28.36,
+          "downsidePrice": 12.2,
+          "note": "Two more quarters have to show that FY26's 7.60 million tons and Q1's Rs 0.45 are the run-rate, and that September's thin operating cash was working capital. That path is 15.30, entry −10.2%; about +9.3% from last, still under the 100-day near 15.62 and the 200-day near 16.21. A volume relapse toward the FY25 tonne level points at a break of 12.35 toward 12.20, entry −28.4%; about −12.9% from last."
+        },
+        {
+          "horizon": "12m",
+          "targetPrice": 15.9,
+          "upsidePct": -6.64,
+          "downsidePct": -29.54,
+          "downsidePrice": 12,
+          "note": "Base is about Rs 1.99 of trailing earnings still valued near 8 times, at 15.90, entry −6.6%; about +13.6% from last. A return to the 17.03 cost needs a multiple back near 8.6 times or earnings near Rs 2.40. The base includes no dividend while financing covenants remain, and no Reko Diq tonnes. The company's review stays open through mid-2027. A coal-cycle rollback and an adverse tax ruling point nearer Rs 12, entry −29.5%; about −14.3% from last, close to the Rs 11 book value."
+        }
+      ],
+      "asOf": "2026-11-17T11:34:13.981Z",
+      "slot": "morning",
+      "disclaimer": "Automated research aid only — not licensed investment advice. Feeds may be delayed."
+    }
+  ]
+}
