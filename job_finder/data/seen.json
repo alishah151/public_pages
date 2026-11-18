@@ -1,0 +1,257 @@
+{
+  "updatedAt": "2026-11-18T08:41:17.549Z",
+  "jobs": {
+    "url:https://job-boards.greenhouse.io/canonical/jobs/5211861": {
+      "firstSeen": "2026-11-17",
+      "title": "Software Engineering Director",
+      "company": "Canonical",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5211861"
+    },
+    "sid:greenhouse::5211861": {
+      "firstSeen": "2026-11-17",
+      "title": "Software Engineering Director",
+      "company": "Canonical",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5211861"
+    },
+    "tc:software engineering director|canonical": {
+      "firstSeen": "2026-11-17",
+      "title": "Software Engineering Director",
+      "company": "Canonical",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5211861"
+    },
+    "url:https://job-boards.greenhouse.io/canonical/jobs/5150422": {
+      "firstSeen": "2026-11-17",
+      "title": "Web Engineer - JS, TS, Flutter",
+      "company": "Canonical",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5150422"
+    },
+    "sid:greenhouse::5150422": {
+      "firstSeen": "2026-11-17",
+      "title": "Web Engineer - JS, TS, Flutter",
+      "company": "Canonical",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5150422"
+    },
+    "tc:web engineer - js, ts, flutter|canonical": {
+      "firstSeen": "2026-11-17",
+      "title": "Web Engineer - JS, TS, Flutter",
+      "company": "Canonical",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5150422"
+    },
+    "url:https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165": {
+      "firstSeen": "2026-11-17",
+      "title": "Full-Stack Developer",
+      "company": "Fluence International, Inc.",
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165"
+    },
+    "sid:remotive::2091165": {
+      "firstSeen": "2026-11-17",
+      "title": "Full-Stack Developer",
+      "company": "Fluence International, Inc.",
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165"
+    },
+    "tc:full-stack developer|fluence international, inc.": {
+      "firstSeen": "2026-11-17",
+      "title": "Full-Stack Developer",
+      "company": "Fluence International, Inc.",
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165"
+    },
+    "url:https://job-boards.greenhouse.io/canonical/jobs/5188002": {
+      "firstSeen": "2026-11-17",
+      "title": "Engineering Manager",
+      "company": "Canonical",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5188002"
+    },
+    "sid:greenhouse::5188002": {
+      "firstSeen": "2026-11-17",
+      "title": "Engineering Manager",
+      "company": "Canonical",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5188002"
+    },
+    "tc:engineering manager|canonical": {
+      "firstSeen": "2026-11-17",
+      "title": "Engineering Manager",
+      "company": "Canonical",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5188002"
+    },
+    "url:https://job-boards.greenhouse.io/canonical/jobs/2804965": {
+      "firstSeen": "2026-11-17",
+      "title": "Web Developer",
+      "company": "Canonical",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/2804965"
+    },
+    "sid:greenhouse::2804965": {
+      "firstSeen": "2026-11-17",
+      "title": "Web Developer",
+      "company": "Canonical",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/2804965"
+    },
+    "tc:web developer|canonical": {
+      "firstSeen": "2026-11-17",
+      "title": "Web Developer",
+      "company": "Canonical",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/2804965"
+    },
+    "url:https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5": {
+      "firstSeen": "2026-11-17",
+      "title": "Senior Fullstack Developer (React.js / Node.js)",
+      "company": "Proxify AB",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5"
+    },
+    "sid:wwr::https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5": {
+      "firstSeen": "2026-11-17",
+      "title": "Senior Fullstack Developer (React.js / Node.js)",
+      "company": "Proxify AB",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5"
+    },
+    "tc:senior fullstack developer (react.js / node.js)|proxify ab": {
+      "firstSeen": "2026-11-17",
+      "title": "Senior Fullstack Developer (React.js / Node.js)",
+      "company": "Proxify AB",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5"
+    },
+    "url:https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote": {
+      "firstSeen": "2026-11-17",
+      "title": "Lending Manager (Front End) - Remote",
+      "company": "Knock",
+      "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote"
+    },
+    "sid:wwr::https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote": {
+      "firstSeen": "2026-11-17",
+      "title": "Lending Manager (Front End) - Remote",
+      "company": "Knock",
+      "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote"
+    },
+    "tc:lending manager (front end) - remote|knock": {
+      "firstSeen": "2026-11-17",
+      "title": "Lending Manager (Front End) - Remote",
+      "company": "Knock",
+      "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote"
+    },
+    "url:https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1": {
+      "firstSeen": "2026-11-17",
+      "title": "FULL TIME: Software Engineer Position - React and Rest",
+      "company": "Yooli",
+      "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1"
+    },
+    "sid:wwr::https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1": {
+      "firstSeen": "2026-11-17",
+      "title": "FULL TIME: Software Engineer Position - React and Rest",
+      "company": "Yooli",
+      "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1"
+    },
+    "tc:full time: software engineer position - react and rest|yooli": {
+      "firstSeen": "2026-11-17",
+      "title": "FULL TIME: Software Engineer Position - React and Rest",
+      "company": "Yooli",
+      "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1"
+    },
+    "url:https://job-boards.greenhouse.io/reddit/jobs/8303798": {
+      "firstSeen": "2026-11-17",
+      "title": "Senior Software Engineer, Web Platform",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8303798"
+    },
+    "sid:greenhouse::8303798": {
+      "firstSeen": "2026-11-17",
+      "title": "Senior Software Engineer, Web Platform",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8303798"
+    },
+    "tc:senior software engineer, web platform|reddit": {
+      "firstSeen": "2026-11-17",
+      "title": "Senior Software Engineer, Web Platform",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8303798"
+    },
+    "url:https://job-boards.greenhouse.io/reddit/jobs/8175520": {
+      "firstSeen": "2026-11-17",
+      "title": "Senior Frontend Engineer, Ads Creative",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8175520"
+    },
+    "sid:greenhouse::8175520": {
+      "firstSeen": "2026-11-17",
+      "title": "Senior Frontend Engineer, Ads Creative",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8175520"
+    },
+    "tc:senior frontend engineer, ads creative|reddit": {
+      "firstSeen": "2026-11-17",
+      "title": "Senior Frontend Engineer, Ads Creative",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8175520"
+    },
+    "url:https://job-boards.greenhouse.io/reddit/jobs/8194576": {
+      "firstSeen": "2026-11-17",
+      "title": "Frontend Engineer, Ads",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576"
+    },
+    "sid:greenhouse::8194576": {
+      "firstSeen": "2026-11-17",
+      "title": "Frontend Engineer, Ads",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576"
+    },
+    "tc:frontend engineer, ads|reddit": {
+      "firstSeen": "2026-11-17",
+      "title": "Frontend Engineer, Ads",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576"
+    },
+    "url:https://job-boards.greenhouse.io/reddit/jobs/8287466": {
+      "firstSeen": "2026-11-17",
+      "title": "Senior Frontend Engineer, Ads Formats",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8287466"
+    },
+    "sid:greenhouse::8287466": {
+      "firstSeen": "2026-11-17",
+      "title": "Senior Frontend Engineer, Ads Formats",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8287466"
+    },
+    "tc:senior frontend engineer, ads formats|reddit": {
+      "firstSeen": "2026-11-17",
+      "title": "Senior Frontend Engineer, Ads Formats",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8287466"
+    },
+    "url:https://job-boards.greenhouse.io/reddit/jobs/8180636": {
+      "firstSeen": "2026-11-17",
+      "title": "Staff Software Engineer, Developer Ecosystem",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8180636"
+    },
+    "sid:greenhouse::8180636": {
+      "firstSeen": "2026-11-17",
+      "title": "Staff Software Engineer, Developer Ecosystem",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8180636"
+    },
+    "tc:staff software engineer, developer ecosystem|reddit": {
+      "firstSeen": "2026-11-17",
+      "title": "Staff Software Engineer, Developer Ecosystem",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8180636"
+    },
+    "url:https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520": {
+      "firstSeen": "2026-11-18",
+      "title": "Software Engineer - Storage",
+      "company": "Supabase",
+      "url": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520"
+    },
+    "sid:ashby::9f2ba0b2-6d3b-43ea-990f-5b4bf3930520": {
+      "firstSeen": "2026-11-18",
+      "title": "Software Engineer - Storage",
+      "company": "Supabase",
+      "url": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520"
+    },
+    "tc:software engineer - storage|supabase": {
+      "firstSeen": "2026-11-18",
+      "title": "Software Engineer - Storage",
+      "company": "Supabase",
+      "url": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520"
+    }
+  }
+}
