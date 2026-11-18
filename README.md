@@ -95,8 +95,7 @@ Adjust:
 
 - Files appear under `https://github.com/alishah151/public_pages/tree/main/static1`
 - Site is live at `https://alishah151.github.io/public_pages/static1/`
-
-Optional: add a link on the hub [`index.html`](index.html).
+- The hub landing page is refreshed automatically: workflow **Update hub index** scans top-level folders and updates [`index.html`](index.html) with links (skips `.github`, `scripts`, etc.).
 
 ## Rules
 
