@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T09:06:59.944Z",
+  "updatedAt": "2026-11-19T08:07:07.628Z",
   "jobs": {
     "url:https://job-boards.greenhouse.io/canonical/jobs/5211861": {
       "firstSeen": "2026-11-17",
@@ -252,6 +252,60 @@
       "title": "Software Engineer - Storage",
       "company": "Supabase",
       "url": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520"
+    },
+    "url:https://weworkremotely.com/remote-jobs/g-p-software-engineer-ii": {
+      "firstSeen": "2026-11-19",
+      "title": "Software Engineer II",
+      "company": "G-P",
+      "url": "https://weworkremotely.com/remote-jobs/g-p-software-engineer-ii"
+    },
+    "sid:wwr::https://weworkremotely.com/remote-jobs/g-p-software-engineer-ii": {
+      "firstSeen": "2026-11-19",
+      "title": "Software Engineer II",
+      "company": "G-P",
+      "url": "https://weworkremotely.com/remote-jobs/g-p-software-engineer-ii"
+    },
+    "tc:software engineer ii|g-p": {
+      "firstSeen": "2026-11-19",
+      "title": "Software Engineer II",
+      "company": "G-P",
+      "url": "https://weworkremotely.com/remote-jobs/g-p-software-engineer-ii"
+    },
+    "url:https://weworkremotely.com/remote-jobs/netlify-staff-software-engineer-interfaces": {
+      "firstSeen": "2026-11-19",
+      "title": "Staff Software Engineer (Interfaces)",
+      "company": "Netlify",
+      "url": "https://weworkremotely.com/remote-jobs/netlify-staff-software-engineer-interfaces"
+    },
+    "sid:wwr::https://weworkremotely.com/remote-jobs/netlify-staff-software-engineer-interfaces": {
+      "firstSeen": "2026-11-19",
+      "title": "Staff Software Engineer (Interfaces)",
+      "company": "Netlify",
+      "url": "https://weworkremotely.com/remote-jobs/netlify-staff-software-engineer-interfaces"
+    },
+    "tc:staff software engineer (interfaces)|netlify": {
+      "firstSeen": "2026-11-19",
+      "title": "Staff Software Engineer (Interfaces)",
+      "company": "Netlify",
+      "url": "https://weworkremotely.com/remote-jobs/netlify-staff-software-engineer-interfaces"
+    },
+    "url:https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-479779": {
+      "firstSeen": "2026-11-19",
+      "title": "Fullstack Web Developer",
+      "company": "Auterion",
+      "url": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-479779"
+    },
+    "sid:arbeitnow::fullstack-web-developer-zurich-479779": {
+      "firstSeen": "2026-11-19",
+      "title": "Fullstack Web Developer",
+      "company": "Auterion",
+      "url": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-479779"
+    },
+    "tc:fullstack web developer|auterion": {
+      "firstSeen": "2026-11-19",
+      "title": "Fullstack Web Developer",
+      "company": "Auterion",
+      "url": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-479779"
     }
   }
 }

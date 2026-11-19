@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T08:07:07.623Z",
+  "meta": {
+    "fetchedCount": 1067,
+    "freshCount": 1054,
+    "alreadyProcessedCount": 13,
+    "eligibleCount": 151,
+    "droppedCount": 903,
+    "confirmedCount": 2,
+    "verifyCount": 1,
+    "matchedCount": 3,
+    "matcherNote": "local",
+    "refineNote": "Cursor refine failed; local matcher only",
+    "filterNote": "Two-tier Pakistan remote filter + curated ATS + skip already-processed",
+    "errors": [],
+    "sources": [
+      "remotive",
+      "remoteok",
+      "arbeitnow",
+      "himalayas",
+      "jobicy",
+      "ats",
+      "wwr",
+      "muse"
+    ]
+  },
+  "jobs": [
+    {
+      "id": "https://weworkremotely.com/remote-jobs/g-p-software-engineer-ii",
+      "source": "wwr",
+      "title": "Software Engineer II",
+      "company": "G-P",
+      "url": "https://weworkremotely.com/remote-jobs/g-p-software-engineer-ii",
+      "location": "Asia Only",
+      "salary": "",
+      "tags": [
+        "Full-Stack Programming",
+        "Full-Time",
+        "weworkremotely"
+      ],
+      "description": "<p> <strong>Headquarters:</strong> India <br /><strong>URL:</strong> <a href=\"https://www.g-p.com\">https://www.g-p.com</a> </p> <div><p><strong><span>About Us</span></strong></p> <p><span>Our leading SaaS-based Global Employment Platform™ enables clients to expand into over 180 countries quickly and efficiently, without the complexities of establishing local entities. At G-P, we’re dedicated to breaking down barriers to global business and creating opportunities for everyone, everywhere.</span></p> <p><span>Our diverse, remote-first teams are essential to our success. We empower our Dream Team members with flexibility and resources, fostering an environment where innovation thrives and every contribution is valued and celebrated.</span></p> <p><span>The work you do here will positively impact lives around the world. We stand by our promise: Opportunity Made Possible. In addition to competitive compensation and benefits, we invite you to join us in expanding your skills and helping to reshape the future of work.</span></p> <p><span>At G-P, we assist organizations in building exceptional global teams in days, not months—streamlining the hiring, onboarding, and management process to unlock growth potential for all.</span></p></div><p></p> <p><strong>About the Company</strong></p> <p>G-P is the world’s first agentic Global Employment Platform built to turn global HR and compliance into a growth engine. We’ve distilled 14+ years of legal and HR expertise into a single, secure tech stack that supports compliant employment in 180+ countries — allowing you to stop managing complexity and start driving revenue. Our technology is engineered to adapt entirely to you — designed to support you at every stage of your growth journey, and integrate securely with the systems you already use. By embedding global labor law intelligence directly into every cross-border workflow, we empower you to scale your workforce in minutes, protect your business from liability, and operate with the agility of a local competitor — anywhere on Earth.&nbsp;</p> <p>&nbsp;</p> <p><strong>About this Position</strong></p> <p>We are looking for a mid-level Software Engineer II to design, build, and scale our AI powered product features with agentic experiences using AI agents and multi-agent workflows. Operating at the crossroads of Agentic AI and full-stack product engineering, you will harness the latest foundation or purpose-fit models and modern agent frameworks to resolve intricate business challenges.</p> <p>&nbsp;</p> <p><strong>What you will do:</strong></p> <ul> <li>Design, build, and operate production AI features across the stack (APIs, services, and product UI) using modern cloud architectures</li> <li>Design and implement agentic systems: tool-calling agents, multi-step workflows, and multi-agent orchestration patterns with guardrails, authz, rate limits, retries, fallbacks, and safe human-in-the-loop paths</li> <li>Own quality loops: offline/online evals, benchmarks, regression sets, prompt/version management, A/B or canary rollouts, and continuous improvement of evals, accuracy, latency, and cost</li> <li>Instrument AI systems for production: tracing, token/cost metrics, failure taxonomy, grounding/hallucination signals, and operational runbooks</li> <li>Collaborate with Product and UX to translate ambiguous use cases into shippable, measurable outcomes</li> <li>Contribute to shared AI platform patterns (agent frameworks, RAG/retrieval, memory, tool registries, evaluation harnesses) and evolve the SDLC for AI delivery</li> </ul> <p>&nbsp;</p> <p><strong>What we're looking for:</strong></p> <ul> <li>3+ years building Agentic / SaaS / enterprise software in distributed teams</li> <li>Strong full-stack foundations: Python, TypeScript, React, Node.js, APIs, and modern databases</li> <li>Hands-on experience with AWS Bedrock, AgentCore, Strands Agents SDK (or comparable frameworks like LangGraph, CrewAI, or Claude Agent SDK), including function/tool calling",
+      "postedAt": "Wed, 18 Nov 2026 11:31:09 +0000",
+      "eligibilityTier": "confirmed",
+      "eligibilityReason": "Worldwide / Asia-friendly remote",
+      "matchScore": 84,
+      "matchReason": "Title is frontend-adjacent · Skills: react, typescript, node.js · Signals: node.js, spa, remote · Seniority: lead",
+      "matchedBy": "profile-matcher-v1"
+    },
+    {
+      "id": "https://weworkremotely.com/remote-jobs/netlify-staff-software-engineer-interfaces",
+      "source": "wwr",
+      "title": "Staff Software Engineer (Interfaces)",
+      "company": "Netlify",
+      "url": "https://weworkremotely.com/remote-jobs/netlify-staff-software-engineer-interfaces",
+      "location": "Anywhere in the World",
+      "salary": "",
+      "tags": [
+        "Front-End Programming",
+        "Full-Time",
+        "weworkremotely"
+      ],
+      "description": "<p> <strong>Headquarters:</strong> Remote </p> <p><strong>About the Team</strong></p> <p>As a Staff Software Engineer at Netlify, you'll join a collaborative team that values continuous learning, mutual support, and shared growth. Together, we create tools that help developers build faster, more intuitively, and with greater impact. Our Experience team owns the core product experience at Netlify, which is every way a human or an agent interacts with the platform, from our React-based web application to CLI, MCP, SDK, and API. If users interact with it directly, it's likely ours. We're reimagining how developers experience web development by thoughtfully integrating AI into our workflows - not as a novelty, but as a practical tool that enhances how we build the web.</p> <p>With our team, you'll help set technical direction for our product area, mentor a highly senior team of engineers, and shape user experiences that serve millions of developers. You'll work closely with Product, Design, and engineering leadership, and partner with teams across the organization to build, iterate, and scale meaningful solutions. You'll have the autonomy to guide what we build and how, and the influence to bring others along with you, all while staying hands-on in the codebase.</p> <p>We're looking for thoughtful engineers who enjoy owning problems end to end, collaborating across disciplines, and solving complex technical challenges for products that millions of developers rely on every day. AI is a foundational part of how we build, so we value engineers who are excited to thoughtfully incorporate AI-assisted workflows while continuing to apply strong engineering fundamentals. We believe the best engineering happens when talented people are trusted to solve difficult problems together, share what they're learning, and create space for different perspectives to shape better solutions.&nbsp; With our team, you'll have real ownership from day one - not a tiny slice of a massive codebase. Engineers here are trusted to make decisions, shape technical direction, and move quickly while collaborating closely with Product and Design.</p> <p><strong>What You'll Do</strong></p> <ul> <li>Use your deep expertise in full-stack development (TypeScript, JavaScript, Go, and React) to ship reliable, scalable, performant code across our product suite, and set the patterns that others on the team and across the org follow.&nbsp;</li> <li>Own the technical direction for our product area, including the web app, CLI, MCP, SDK, API, and docs, by defining architecture and roadmap alongside your manager, Product, and Design, and make tradeoffs explicit so decisions are easy to understand and revisit</li> <li>Lead large, ambiguous projects that span multiple teams from conception to delivery, such as our application rewrite and upcoming CLI rework, writing RFCs, driving alignment, and managing risk and timelines</li> <li>Design and evolve user-facing features and product APIs for both humans and agents, recognizing that the best interface isn’t always a React application. Build them to scale to millions of developers worldwide, with a clear view of reliability, performance, and long-term maintainability.</li> <li>Make thoughtful product and interface decisions on your own with the overall customer experience top of mind</li> <li>Set the bar for engineering practices - testing, documentation, observability, and performance optimization - and lead how the team pragmatically uses AI tools, sharing what works and what doesn't</li> <li>Turn ambiguity into clear plans, guiding both early-stage prototypes and production-ready applications that directly impact user experience and business metrics</li> <li>Mentor and grow engineers through code reviews, design reviews, pairing, and sponsorship, raising the technical level of the whole team</li> <li>Practice proactive async communication and create visibility across projects by documenting your workflows and decision-making clearl",
+      "postedAt": "Thu, 19 Nov 2026 06:00:58 +0000",
+      "eligibilityTier": "confirmed",
+      "eligibilityReason": "Worldwide / Asia-friendly remote",
+      "matchScore": 84,
+      "matchReason": "Title is frontend-adjacent · Skills: react, typescript, javascript · Signals: spa, performance, remote · Seniority: senior",
+      "matchedBy": "profile-matcher-v1"
+    },
+    {
+      "id": "fullstack-web-developer-zurich-479779",
+      "source": "arbeitnow",
+      "title": "Fullstack Web Developer",
+      "company": "Auterion",
+      "url": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-479779",
+      "location": "Zurich",
+      "salary": "",
+      "tags": [
+        "Engineering"
+      ],
+      "description": "<p><strong>Overview</strong></p> <p>We are looking for a hands-on Fullstack Web Developer to join our Web Apps team, in our Zürich office. In this role you will have the opportunity to drive development of new features, have a say in architecture and design decisions and have real impact across all the team’s projects.</p> <p>The web apps team plays a central role at Auterion and owns the systems that add connectivity and remote interfaces for fleet management and operations. Our services are responsible for ingesting and analyzing flight telemetry data, managing and updating the fleet as well as integrating with other systems across the stack.&nbsp;</p> <p>The ideal candidate is someone who’s a self-starter, can work independently, can work with ambiguity, can take decisions on their own and not be afraid to drive and push towards getting the project across the finish line.</p> <p><strong>Responsibilities and Duties</strong></p> <ul> <li>Take ownership and drive the development of new features across all the team’s web based projects</li> <li>Deliver clean, readable and maintainable code</li> <li>Integrate services between edge devices and our centralized services</li> <li>Handle new feature discovery, prototyping and investigations</li> <li>Assist the Customer Success team in debugging and resolving customer issues</li> <li>Monitor and analyze user usage patterns and other statistics</li> <li>Push initiatives to clean up, upgrade, and refactor existing services to reduce technical debt</li> <li>Maintain and improve integrations with 3rd party services</li> </ul> <p><strong>Qualifications and Skills</strong></p> <ul> <li>4+ years of experience in a Fullstack web development or similar role.</li> <li>Strong proficiency with the Node.js&nbsp; ecosystem, development and tooling</li> <li>Strong proficiency with the Typescript ecosystem, development and tooling</li> <li>Strong proficiency with modern SPAs (Vue.js ecosystem preferred)</li> <li>Solid experience with Postgres/SQL (queries, transactions, views, indexes, triggers) as well as ORM systems (Prisma)</li> <li>Solid experience with Docker and container orchestration</li> <li>Solid experience with CI/CD pipelines (GoCD and GH Actions)</li> <li>Experience with monitoring and observability tools (Datadog, Grafana)</li> <li>Python proficiency is a plus</li> <li>CH/EU citizenship required&nbsp;</li> </ul> <p><strong>Benefits</strong></p> <ul> <li>Flexible working hours</li> <li>Stock Options</li> <li>Generous holiday allowance</li> <li>Company pension plan&nbsp;</li> <li>Car parking&nbsp;&nbsp;</li> <li>Enhanced maternity &amp; paternity leave</li> <li>Mental health and wellbeing support</li> </ul> <p><strong>About Auterion</strong></p> <p>We are building the leading software platform for AI-powered autonomous systems for enterprise and government customers. Our team is supporting the most important missions and solving the most challenging problems.</p> <p>At Auterion, we bring together the sharpest minds who love to solve the hardest problems. Join a vibrant team built on innovation, openness, and excellence, where you’ll be empowered to develop ideas, collaborate across all levels, and make an impact that matters.</p> Find more English Speaking Jobs in Switzerland on Arbeitnow",
+      "postedAt": "2026-11-18T18:55:18.000Z",
+      "remote": false,
+      "eligibilityTier": "verify",
+      "eligibilityReason": "Confirm hires in Pakistan/Asia",
+      "matchScore": 72,
+      "matchReason": "Title is frontend-adjacent · Skills: typescript, vue, node.js · Signals: node.js, spa, remote · Seniority: lead",
+      "matchedBy": "profile-matcher-v1"
+    }
+  ]
+}
