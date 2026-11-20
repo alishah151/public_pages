@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T08:07:07.628Z",
+  "updatedAt": "2026-11-20T07:52:22.369Z",
   "jobs": {
     "url:https://job-boards.greenhouse.io/canonical/jobs/5211861": {
       "firstSeen": "2026-11-17",
@@ -306,6 +306,42 @@
       "title": "Fullstack Web Developer",
       "company": "Auterion",
       "url": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-479779"
+    },
+    "url:https://weworkremotely.com/remote-jobs/postscript-senior-fullstack-engineer-customer-context": {
+      "firstSeen": "2026-11-20",
+      "title": "Senior Fullstack Engineer, Customer Context",
+      "company": "Postscript",
+      "url": "https://weworkremotely.com/remote-jobs/postscript-senior-fullstack-engineer-customer-context"
+    },
+    "sid:wwr::https://weworkremotely.com/remote-jobs/postscript-senior-fullstack-engineer-customer-context": {
+      "firstSeen": "2026-11-20",
+      "title": "Senior Fullstack Engineer, Customer Context",
+      "company": "Postscript",
+      "url": "https://weworkremotely.com/remote-jobs/postscript-senior-fullstack-engineer-customer-context"
+    },
+    "tc:senior fullstack engineer, customer context|postscript": {
+      "firstSeen": "2026-11-20",
+      "title": "Senior Fullstack Engineer, Customer Context",
+      "company": "Postscript",
+      "url": "https://weworkremotely.com/remote-jobs/postscript-senior-fullstack-engineer-customer-context"
+    },
+    "url:https://remoteok.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805": {
+      "firstSeen": "2026-11-20",
+      "title": "SEO Full Stack Engineer",
+      "company": "Treatwell",
+      "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805"
+    },
+    "sid:remoteok::1137805": {
+      "firstSeen": "2026-11-20",
+      "title": "SEO Full Stack Engineer",
+      "company": "Treatwell",
+      "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805"
+    },
+    "tc:seo full stack engineer|treatwell": {
+      "firstSeen": "2026-11-20",
+      "title": "SEO Full Stack Engineer",
+      "company": "Treatwell",
+      "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805"
     }
   }
 }
