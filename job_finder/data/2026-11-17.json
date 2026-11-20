@@ -1,17 +1,17 @@
 {
   "date": "2026-11-17",
-  "generatedAt": "2026-11-17T16:12:10.512Z",
+  "generatedAt": "2026-11-20T09:33:12.345Z",
   "meta": {
     "fetchedCount": 1069,
     "freshCount": 1069,
     "alreadyProcessedCount": 0,
     "eligibleCount": 164,
     "droppedCount": 905,
-    "confirmedCount": 7,
-    "verifyCount": 6,
-    "matchedCount": 13,
-    "matcherNote": "local",
-    "refineNote": "Cursor refine failed; local matcher only",
+    "confirmedCount": 3,
+    "verifyCount": 5,
+    "matchedCount": 8,
+    "matcherNote": "local-rescore-v2",
+    "refineNote": "Historical rescore with frontend React/Next/TS/MERN matcher",
     "filterNote": "Two-tier Pakistan remote filter + curated ATS + skip already-processed",
     "errors": [],
     "sources": [
@@ -23,15 +23,17 @@
       "ats",
       "wwr",
       "muse"
-    ]
+    ],
+    "rescoredAt": "2026-11-20T09:33:12.344Z",
+    "rescoredFromCount": 13
   },
   "jobs": [
     {
-      "id": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+      "id": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
       "source": "wwr",
-      "title": "FULL TIME: Software Engineer Position - React and Rest",
-      "company": "Yooli",
-      "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+      "title": "Senior Fullstack Developer (React.js / Node.js)",
+      "company": "Proxify AB",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
       "location": "Anywhere in the World",
       "salary": "",
       "tags": [
@@ -39,36 +41,59 @@
         "Full-Time",
         "weworkremotely"
       ],
-      "description": "<img src=\"https://we-work-remotely.imgix.net/logos/0161/6774/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" /> <p> <strong>Headquarters:</strong> Australia <br /><strong>URL:</strong> <a href=\"http://yooli.co\">http://yooli.co</a> </p> <div><strong>Job description</strong></div> <ul> <li>We are seeking a highly skilled <strong>Senior Software Engineer</strong> to join our team and contribute to the transformative tech evolution in healthcare.&nbsp;</li> <li>This critical role involves developing, integrating, and optimising our backend and database systems.&nbsp;</li> <li>You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation.</li> </ul> <div>&nbsp;</div> <div><strong>Your Role:</strong></div> <ul> <li>Develop and maintain robust backend services using <strong>NestJS</strong> and <strong>Node.js</strong>, ensuring top-tier performance and security.</li> <li>Design and manage efficient <strong>REST API</strong> endpoints to optimise interactions with our SQL database.</li> <li>Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backend logic and database performance.</li> <li>Ensure the scalability, security, and responsiveness of backend services.</li> <li>Uphold rigorous data protection standards and implement industry-leading security measures.</li> <li>Participate in code reviews to uphold high coding standards and foster continuous improvement within the development team.</li> </ul> <div>&nbsp;</div> <div><strong>What Youll Bring:</strong></div> <div><strong>Essential Skills &amp; Experience:</strong></div> <ul> <li>At least <strong>7 years of experience</strong> with:</li> <li><strong>React</strong></li> <li><strong>React Vite</strong></li> <li><strong>REST API development</strong></li> <li>Strong knowledge and hands-on experience with <strong>SQL</strong>.</li> <li>Proficiency in <strong>Prisma</strong> for database management.</li> <li>A minimum of <strong>5 years of experience</strong> in <strong>REST API development</strong> using the <strong>NestJS framework</strong>.</li> <li>Expertise in backend development, specifically with <strong>NestJS</strong>, <strong>Node.js</strong>, <strong>REST APIs</strong>, and <strong>PostgreSQL</strong>.</li> <li>Experience in developing single-page applications using <strong>ReactJS</strong>.</li> <li>Strong understanding of <strong>TypeScript</strong> and <strong>Object-Oriented Programming (OOP)</strong> principles.</li> <li>Solid grasp of commonly used <strong>data structures</strong>.</li> <li>Proven experience with <strong>cloud hosting services</strong> (preferably AWS) and integrating them into development workflows.</li> <li>Exceptional problem-solving skills and meticulous attention to detail.</li> <li>A proven ability to thrive in collaborative, remote work environments, showcasing excellent communication skills and a commitment to team success.</li> <li>A portfolio demonstrating relevant projects.</li> </ul> <div>&nbsp;</div> <div><strong>Nice-to-Haves:</strong></div> <ul> <li>Experience with <strong>CI/CD pipelines</strong> and version control systems like <strong>Git</strong>.</li> <li>Familiarity with <strong>agile development methodologies</strong> and project management tools.</li> <li>Knowledge of <strong>Redux</strong> for state management.</li> <li>A degree in <strong>Computer Science</strong> or a related field.</li> </ul> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1\">https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1</a></p>",
-      "postedAt": "Wed, 05 Aug 2026 05:52:46 +0000",
+      "description": "<p> <strong>Headquarters:</strong> Sweden <br /><strong>URL:</strong> <a href=\"http://career.proxify.io\">http://career.proxify.io</a> </p> <h3><strong>The Role:</strong></h3> <p><strong>&nbsp;</strong></p> <p>We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.</p> <p><strong>&nbsp;</strong></p> <h3>What we are looking for:</h3> <p><strong>&nbsp;</strong></p> <ul> <li> <p>5+ years experience as a Fullstack Developer.</p> </li> <li> <p>Backend experience with:</p> </li> <ul> <li> <p>Node.js</p> </li> <li> <p>Microservices architecture</p> </li> </ul> <li> <p>Database experience with:</p> </li> <ul> <li> <p>SQL</p> </li> <li> <p>MongoDB</p> </li> </ul> <li> <p>Intermediate-advanced English</p> </li> </ul> <p><strong>&nbsp;</strong></p> <h4>Nice-to-have:&nbsp;</h4> <ul> <li> <p>Located in CET timezone (+/- 3 hours).</p> </li> <li> <p>Database Architecture knowledge.</p> </li> </ul> <p>&nbsp;</p> <h4>Responsibilities:</h4> <ul> <li> <p>Ability to build libraries and frameworks of reusable efficient code.</p> </li> <li> <p>Competence in designing and implementing low-latency, stable and performing applications.</p> </li> <li> <p>Capacity to effectively collaborate with other team members and stakeholders remotely.</p> </li> <li> <p>Ability to implement data protection systems.</p> </li> <li> <p>Competence in data storage solutions.</p> </li> </ul> <h4>&nbsp;</h4> <h4><strong>What we offer:<br></strong></h4> <div>&nbsp;</div> <div><strong>Get paid, not played</strong></div> <div>No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.<br><br></div> <div><strong><br>Predictable project hours</strong></div> <div>Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.<br><br></div> <div><br><strong>Flex days, so you can recharge</strong></div> <div>Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.<br><br></div> <div><br><strong>Career-accelerating positions at cutting-edge companies</strong></div> <div>Discover exclusive long-term remote positions at the world's most exciting companies.<br><br></div> <div><br><strong>Hand-picked opportunities just for you</strong></div> <div>Skip the typical recruitment roadblocks and biases with personally matched positions.<br><br></div> <div><br><strong>One seamless process, multiple opportunities</strong></div> <div>A one-time contracting process for endless opportunities, with no extra assessments.<br><br></div> <div><br><strong>Compensation</strong></div> <div>Enjoy the same pay, every month with positions landed through Proxify.</div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5\">https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5</a></p>",
+      "postedAt": "Mon, 19 Oct 2026 09:29:00 +0000",
       "eligibilityTier": "confirmed",
       "eligibilityReason": "Worldwide / Asia-friendly remote",
-      "matchScore": 90,
-      "matchReason": "Title is frontend-adjacent · Skills: react, reactjs, typescript, node.js · Signals: node.js, performance, remote · Seniority: senior",
-      "matchedBy": "profile-matcher-v1"
+      "matchScore": 100,
+      "matchReason": "Title match: react · React · MERN / React+Node+Mongo · Skills: react",
+      "matchedBy": "profile-matcher-v2"
     },
     {
-      "id": "5211861",
+      "id": "8175520",
       "source": "greenhouse",
-      "title": "Software Engineering Director",
-      "company": "Canonical",
-      "url": "https://job-boards.greenhouse.io/canonical/jobs/5211861",
-      "location": "Home based - Worldwide",
+      "title": "Senior Frontend Engineer, Ads Creative",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8175520",
+      "location": "Remote - United States",
       "salary": "",
       "tags": [
-        "Engineering Fast Track",
+        "Ads Product & Engineering",
+        "San Francisco",
+        "greenhouse"
+      ],
+      "description": "<div class=\"content-intro\"><div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"> <div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\"> <div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\"> <div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\"> <div class=\"p-rich_text_block\"> <div class=\"p-rich_text_section\">Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit <a class=\"c-link\" href=\"http://www.redditinc.com/\" target=\"_blank\" data-stringify-link=\"http://redditinc.com\" data-sk=\"tooltip_parent\">www.redditinc.com</a>.</div> </div> </div> </div> </div> </div></div><h2>Team Description</h2> <p>The Ads Creative &amp; Recommendations team makes it easier for advertisers to maximize performance on Reddit through relevant creative and actionable recommendations.</p> <p>We own the advertiser-facing workflows where creative, recommendations, and campaign creation come together.</p> <p>Our goal is to reduce blank-canvas work and help advertisers move from an idea to an effective campaign with less friction. We build unified experiences that give advertisers useful context, evidence-backed guidance, and the ability to refine the system’s suggestions.</p> <h2>Role Description</h2> <p>We’re looking for a senior frontend engineer with deep JavaScript, TypeScript, and React experience to help shape the next generation of Reddit’s advertiser tools.</p> <p>You’ll independently own complex and sometimes ambiguous areas of the product, from technical design through launch and iteration. You’ll work closely with product, design, data science, machine learning, and backend engineering to turn sophisticated capabilities into workflows that feel simple and dependable.</p> <p>This role is a strong fit for someone who cares about both the architecture behind a frontend system and the details that make a product intuitive, fast, accessible, and maintainable.</p> <h2>Responsibilities</h2> <ul> <li>Own the technical design and delivery of complex frontend features across Ads Manager’s creative and recommendation workflows.</li> <li>Translate AI-backed capabilities into interfaces that advertisers can understand, steer, and refine.</li> <li>Partner with product and design to work through ambiguous requirements and make sound product and engineering tradeoffs.</li> <li>Develop reusable frontend patterns and components that support a unified campaign creation experience.</li> <li>Instrument experiences, evaluate results, and use experiments and product data to guide iteration.</li> <li>Raise the quality of the codebase through thoughtful architecture, testing, observability, performance work, and accessibility.</li> <li>Provide high-quality code reviews and technical guidance, and help other engineers grow.</li> <li>Collaborate across frontend, backend, data, and machine learning systems to deliver reliable end-to-end experiences.</li> </ul> <h2>Required Qualifications</h2> <ul> <li>5+ years of experience building production web applications with JavaScript, TypeScript, and React.</li> <li>Comfort using Codex, Cursor, Claude, or comparable agentic coding tools in day-to-day software development.</li> <li>A track record of independently delivering complex frontend projects from technical design through launch and iteration.</li> <li>Sound judgment in frontend architecture, state management, component design, testing, and API integration.</li> <li>Experience building polished user interfaces with close attention to usability, performance, accessibility, and maintainability.</li> <",
+      "postedAt": "2026-11-16T07:18:47-05:00",
+      "ats": "greenhouse",
+      "companySlug": "reddit",
+      "eligibilityTier": "verify",
+      "eligibilityReason": "Confirm hires in Pakistan/Asia",
+      "matchScore": 86,
+      "matchReason": "Title match: senior frontend, frontend engineer · React + TypeScript · Skills: react, typescript, javascript · Signals: performance, accessibility, remote",
+      "matchedBy": "profile-matcher-v2"
+    },
+    {
+      "id": "2804965",
+      "source": "greenhouse",
+      "title": "Web Developer",
+      "company": "Canonical",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/2804965",
+      "location": "Home based - EMEA",
+      "salary": "",
+      "tags": [
+        "Web Engineering",
         "Home Based - Worldwide",
         "greenhouse"
       ],
-      "description": "<p>This is the general track for Engineering Director at Canonical, apply here if you are confident to run a project which spans teams and time zones, hiring and managing engineering managers and staff engineers.</p> <p>Canonical’s largest software products are built by multiple teams working together under a single director of engineering. Once you have passed the first round of interviews we will discuss specific software products which would be a good fit for your interests.</p> <p>We believe that open source is just starting to transform the tech sector and enterprise compute. Our goal is to make open source easier, more reliable and more secure for deployment and development. We strive to be the provider of ‘most software to most companies’. To deliver on that ambition, our engineers are carefully selected from the applicants across the globe. We select for brilliance and motivation to take open source to the next level. Our engineering directors set the pace and the direction to help teams achieve more than they realised they could, and feel proud of the result.</p> <p>Even though this is a senior management position, managing managers, we expect Engineering Directors to be outstanding developers with the confidence to lead by example across the full range of activities in their teams. You need to understand what great code looks like in the language and genre of your product - whether that is a web service, or a system daemon, or a desktop application, or a distributed system. You’ll need to know how to drive testing and benchmarking to improve the clarity in your teams around quality and performance. You’ll also need to be confident to set and defend high expectations of work ethic, consistency, focus and learning.</p> <p>We have director level roles across a wide range of engineering domains, including:</p> <ul> <li>Python and Golang</li> <li>C / C++ / Rust</li> <li>Data infrastructure</li> <li>HTML / CSS / JavaScript / Typescript / React</li> <li>Flutter</li> <li>Distro packaging and systems</li> <li>SAAS and web microservices</li> <li>Kernel</li> <li>Servers</li> <li>Graphics, Browser and Desktop&nbsp;&nbsp;</li> <li>Silicon enablement and embedded devices</li> <li>Product Security</li> </ul> <p>If your domain of expertise isn’t listed above, yet you feel it’s relevant to Canonical, then feel free to apply anyway. We will route you to the most suitable team.</p> <p>Location: The role is remote, with positions available in all time zones. It includes a requirement for global travel for twice per year, for trips up to two weeks long.</p> <h2>What you’ll do</h2> <ul> <li>Lead multiple teams of engineers, ranging from graduate to senior</li> <li>Develop your engineering managers and maintain Canonical culture</li> <li>Hire staff level engineers for specific roles like performance and quality</li> <li>Coach, mentor, and offer career development feedback</li> <li>Identify and measure indicators of team health and productivity</li> <li>Ensure rounded delivery including community participation and docs</li> <li>Implement disciplined engineering processes and defend them</li> <li>Set and measure progress against benchmark goals for speed and efficiency</li> <li>Represent your product to stakeholders, partners, and customers</li> <li>Develop and evangelise great engineering and organisational practices</li> <li>Plan and manage progress on agreed goals and projects</li> <li>Be an active part of the leadership team, collaborating with other leaders</li> <li>Collaborate with leads for related or dependent products</li> </ul> <h2>What we’re looking for in you</h2> <ul> <li>An exceptional academic track record from both high school and university</li> <li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li> <li>Extensive management experience and confidence to set high expectations</li> <li>Outstanding Linux based software engineering track record</li> <li>Drive and a track r",
-      "postedAt": "2026-08-05T18:23:33-04:00",
+      "description": "<p><span style=\"font-weight: 400;\">Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</span></p> <p><span style=\"font-weight: 400;\">The company is founder-led, profitable, and growing.</span></p> <h3><strong>Our mission is great open source</strong></h3> <p><span style=\"font-weight: 400;\">It is our mission to make open source software available to people everywhere. We create world-renowned software, impacting the lives of millions of people every day.</span></p> <p><span style=\"font-weight: 400;\">The web team works in a multi-disciplinary environment with visual designers, UX designers and other developers to bring exciting new web projects to life. We help and learn from each other and constantly strive to improve both our work and our processes.</span></p> <h3><strong>Required skills and experience</strong></h3> <ul> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Demonstrable experience of work on modern web applications</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">A strong understanding of HTML, CSS with SCSS and JavaScript</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience with Javascript components libraries</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience with TypeScript</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience with responsive user interfaces for a wide range of devices and browsers</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience with Git or other version control systems</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Awareness of SEO best practice</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Consideration of accessibility in all aspects of your work</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">A strong understanding of web performance in complex user interfaces</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Ability to interact with UX, designers and server-side developers</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Curiosity about technology and a thirst to learn</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Based in EMEA timezones (Europe, the Middle East and Africa)</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">University degree or equivalent education</span></li> </ul> <h3><strong>Useful experience if you have it</strong></h3> <ul> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Familiarity with Linux desktop technologies</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Server-side languages, such as Python or NodeJS</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience working on a large scale React (with TypeScript) project</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">A history of open source contributions</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Relevant work experience</span></li> </ul> <h3><strong>Who you are</strong></h3> <p><span style=\"font-weight: 400;\">We want a Web Developer who loves what they do. You are passionate about web standards and keep abreast of new developments in our industry. You alw",
+      "postedAt": "2026-11-16T05:42:48-05:00",
       "ats": "greenhouse",
       "companySlug": "canonical",
-      "eligibilityTier": "confirmed",
-      "eligibilityReason": "Worldwide / Asia-friendly remote",
-      "matchScore": 86,
-      "matchReason": "Title is frontend-adjacent · Skills: react, typescript, javascript, html, css · Signals: spa, performance, remote · Seniority: senior",
-      "matchedBy": "profile-matcher-v1"
+      "eligibilityTier": "verify",
+      "eligibilityReason": "Confirm hires in Pakistan/Asia (EMEA listing)",
+      "matchScore": 83,
+      "matchReason": "Title match: web developer · React + TypeScript · React + Node · Skills: react, typescript, javascript",
+      "matchedBy": "profile-matcher-v2"
     },
     {
       "id": "5150422",
@@ -89,9 +114,32 @@
       "companySlug": "canonical",
       "eligibilityTier": "confirmed",
       "eligibilityReason": "Worldwide / Asia-friendly remote",
-      "matchScore": 80,
-      "matchReason": "Title is frontend-adjacent · Skills: react, typescript, css · Signals: performance, accessibility, remote · Seniority: lead",
-      "matchedBy": "profile-matcher-v1"
+      "matchScore": 71,
+      "matchReason": "Title match: web engineer · React + TypeScript · Skills: react, typescript · Signals: performance, accessibility, remote",
+      "matchedBy": "profile-matcher-v2"
+    },
+    {
+      "id": "8287466",
+      "source": "greenhouse",
+      "title": "Senior Frontend Engineer, Ads Formats",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8287466",
+      "location": "Remote - United States",
+      "salary": "",
+      "tags": [
+        "Ads Product & Engineering",
+        "Remote - United States",
+        "greenhouse"
+      ],
+      "description": "<div class=\"content-intro\"><div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"> <div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\"> <div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\"> <div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\"> <div class=\"p-rich_text_block\"> <div class=\"p-rich_text_section\">Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit <a class=\"c-link\" href=\"http://www.redditinc.com/\" target=\"_blank\" data-stringify-link=\"http://redditinc.com\" data-sk=\"tooltip_parent\">www.redditinc.com</a>.</div> </div> </div> </div> </div> </div></div><h2><strong>Team Description</strong></h2> <p>The Ad Formats team builds and evolves Reddit’s ad experiences across all platforms and all format types, including image, video, carousel, shopping, etc.&nbsp;</p> <p>&nbsp;</p> <p>The team defines how those ads behave across placements like feed, conversation, search, making sure each format works in the right surfaces and contexts across Reddit. The team supports the end-to-end user ad experience, including media rendering, click behavior, special click variants like lead gen, and the UI details that make promoted content feel native to Reddit while optimizing for advertiser's goals.</p> <p>&nbsp;</p> <p>Within this area, the <em>Ad Formats Foundation</em> team owns the common infrastructure behind all ad formats, with a mission to improve developer efficiency, system reliability, and long-term scalability across the stack. We are responsible for modernizing core formats infrastructure, standardized format data, drive cross-platform consistency and compliance for ad formats to reduce bugs and allow the formats team to iterate quickly and improve the developer velocity.&nbsp;</p> <p>&nbsp;</p> <p>Our goal is to continuously improve ad formats infrastructure, with a focus on increasing developer efficiency and system reliability through tech stack modernization, scalability investments, and compliance work.</p> <h2><strong>Role Description</strong></h2> <p>We’re looking for a senior frontend engineer with deep JavaScript, TypeScript, and browser platform expertise to help strengthen Reddit’s advertising experiences across desktop and mobile web. You will partner with product and design to work through ambiguous requirements and make sound product and engineering tradeoffs.</p> <p>&nbsp;</p> <p>You’ll work closely with Ads and Web Platform engineers to solve complex frontend challenges while maintaining site performance, accessibility, and a dependable user experience. This role is a strong fit for someone who enjoys browser-level problem solving, navigating ambiguity, and building maintainable systems with measurable impact.</p> <h2><strong>Responsibilities</strong></h2> <ul> <li>Develop resilient frontend approaches to reduce ad disruptions, drawing on deep knowledge of JavaScript, TypeScript, HTML, CSS, the DOM, and browser networking.</li> <li>Partner with Ads and Web Platform teams to integrate solutions into shared rendering infrastructure, frontend architecture, and build systems.</li> <li>Design controlled experiments and phased rollouts to measure effectiveness while protecting site performance, accessibility, and user experience.</li> <li>Build instrumentation and monitoring to track mitigation effectiveness, detect regressions, and guide iteration.</li> <li>Implement ad rendering, event collection, click handling, browser extensions across multiple Ad formats.</li> <li>Contribute to broader foundational improvements in web advertising",
+      "postedAt": "2026-11-16T07:18:48-05:00",
+      "ats": "greenhouse",
+      "companySlug": "reddit",
+      "eligibilityTier": "verify",
+      "eligibilityReason": "Confirm hires in Pakistan/Asia",
+      "matchScore": 67,
+      "matchReason": "Title match: senior frontend, frontend engineer · Skills: typescript, javascript · Signals: performance, accessibility, remote · Seniority: senior",
+      "matchedBy": "profile-matcher-v2"
     },
     {
       "id": "2091165",
@@ -134,166 +182,9 @@
       "postedAt": "2026-10-29T18:22:41",
       "eligibilityTier": "confirmed",
       "eligibilityReason": "Worldwide / Asia-friendly remote",
-      "matchScore": 74,
-      "matchReason": "Title is frontend-adjacent · Skills: react, typescript, javascript · Signals: next.js, performance · Seniority: senior",
-      "matchedBy": "profile-matcher-v1"
-    },
-    {
-      "id": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
-      "source": "wwr",
-      "title": "Senior Fullstack Developer (React.js / Node.js)",
-      "company": "Proxify AB",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
-      "location": "Anywhere in the World",
-      "salary": "",
-      "tags": [
-        "Full-Stack Programming",
-        "Full-Time",
-        "weworkremotely"
-      ],
-      "description": "<p> <strong>Headquarters:</strong> Sweden <br /><strong>URL:</strong> <a href=\"http://career.proxify.io\">http://career.proxify.io</a> </p> <h3><strong>The Role:</strong></h3> <p><strong>&nbsp;</strong></p> <p>We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.</p> <p><strong>&nbsp;</strong></p> <h3>What we are looking for:</h3> <p><strong>&nbsp;</strong></p> <ul> <li> <p>5+ years experience as a Fullstack Developer.</p> </li> <li> <p>Backend experience with:</p> </li> <ul> <li> <p>Node.js</p> </li> <li> <p>Microservices architecture</p> </li> </ul> <li> <p>Database experience with:</p> </li> <ul> <li> <p>SQL</p> </li> <li> <p>MongoDB</p> </li> </ul> <li> <p>Intermediate-advanced English</p> </li> </ul> <p><strong>&nbsp;</strong></p> <h4>Nice-to-have:&nbsp;</h4> <ul> <li> <p>Located in CET timezone (+/- 3 hours).</p> </li> <li> <p>Database Architecture knowledge.</p> </li> </ul> <p>&nbsp;</p> <h4>Responsibilities:</h4> <ul> <li> <p>Ability to build libraries and frameworks of reusable efficient code.</p> </li> <li> <p>Competence in designing and implementing low-latency, stable and performing applications.</p> </li> <li> <p>Capacity to effectively collaborate with other team members and stakeholders remotely.</p> </li> <li> <p>Ability to implement data protection systems.</p> </li> <li> <p>Competence in data storage solutions.</p> </li> </ul> <h4>&nbsp;</h4> <h4><strong>What we offer:<br></strong></h4> <div>&nbsp;</div> <div><strong>Get paid, not played</strong></div> <div>No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.<br><br></div> <div><strong><br>Predictable project hours</strong></div> <div>Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.<br><br></div> <div><br><strong>Flex days, so you can recharge</strong></div> <div>Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.<br><br></div> <div><br><strong>Career-accelerating positions at cutting-edge companies</strong></div> <div>Discover exclusive long-term remote positions at the world's most exciting companies.<br><br></div> <div><br><strong>Hand-picked opportunities just for you</strong></div> <div>Skip the typical recruitment roadblocks and biases with personally matched positions.<br><br></div> <div><br><strong>One seamless process, multiple opportunities</strong></div> <div>A one-time contracting process for endless opportunities, with no extra assessments.<br><br></div> <div><br><strong>Compensation</strong></div> <div>Enjoy the same pay, every month with positions landed through Proxify.</div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5\">https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5</a></p>",
-      "postedAt": "Mon, 19 Oct 2026 09:29:00 +0000",
-      "eligibilityTier": "confirmed",
-      "eligibilityReason": "Worldwide / Asia-friendly remote",
-      "matchScore": 70,
-      "matchReason": "Title is frontend-adjacent · Skills: react, node.js · Signals: node.js, remote · Seniority: senior",
-      "matchedBy": "profile-matcher-v1"
-    },
-    {
-      "id": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
-      "source": "wwr",
-      "title": "Lending Manager (Front End) - Remote",
-      "company": "Knock",
-      "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
-      "location": "Anywhere in the World",
-      "salary": "",
-      "tags": [
-        "Front-End Programming",
-        "Full-Time",
-        "weworkremotely"
-      ],
-      "description": "<p> <strong>Headquarters:</strong> Remote </p> <div class=\"content-intro\"><p>Knock is redefining the home buying and selling experience, and we’re only getting started! We’re a passionate team of industry experts who knew there had to be a better, simpler way for people to navigate the journey between homes. That people-first mindset is core to how we operate, and why Knock has been honored as one of<em> Inc.’s Best Workplaces</em> six times in the past seven years.</p> <p>We bring that mindset into the work we do every day.&nbsp; The Knock Bridge Loan™ empowers homebuyers to ‘buy before they sell’, by unlocking the equity in their current home, giving them greater convenience, certainty, and competitiveness.&nbsp;</p> <p>Founded in 2015, Knock has grown into a trusted partner for thousands of homebuyers and a network of 60,000+ loan officers and agents across the country. Backed by top investors like Foundry Group, Trinity Capital, and the National Association of Realtors, we’ve built a reputation for innovation and trust, earning 900+ five-star Zillow and Trustpilot reviews and an A+ BBB rating.&nbsp;</p> <p>Join our growing team and help shape the future of homebuying! To learn more, visit <a href=\"http://knock.com/\">Knock.com</a></p></div><p><strong>Lending Manager (Front End)</strong></p> <p><strong>About the role</strong></p> <p><strong>Knock is looking for an experienced mortgage leader to manage and grow our team of fully remote Loan Assistants. This is a 100% remote role, and you’ll lead a team distributed across the country. You enjoy building teams, finding efficiencies, and using technology to improve how work gets done. You’re approachable, open-minded, and adaptable. You know the work well enough to coach it and you’re willing to jump in and help. In this role you’ll own the Loan Assistant and post-closing pipelines, develop your team, and work with the Director of Lending Operations to make our processes better.</strong></p> <p><strong>What you’ll do:</strong></p> <p><strong><em>Lead and develop the team</em></strong></p> <ul> <li><strong>Manage, lead, and scale the remote Loan Assistant team. </strong></li> <li><strong>Share weekly, monthly, quarterly, and annual team and company goals, and make sure the team meets and exceeds expectations.Hold team members accountable for their performance.</strong></li> <li><strong>Build camaraderie and teamwork in a virtual environment through team meetings and regular 1:1 check-ins.</strong></li> <li><strong>Run virtual training for new Loan Assistants and serve as the team’s go-to for escalations, questions, and exceptions.</strong></li> <li><strong>Mentor people inside and outside your team, and keep learning yourself.</strong></li> <li><strong>Document conversations in our HRIS and build a sense of ownership across the team.</strong></li> </ul> <p><strong><em>Own the pipeline</em></strong></p> <ul> <li><strong>Manage the bridge loan pipeline from setup through initial disclosure and submission, and through post-closing. </strong></li> <li><strong>Coach the team and give feedback along the way.Balance workloads across the team to meet company SLAs.</strong></li> <li><strong>Support post-closing review. </strong></li> <li><strong>Work loans that have findings with the team member responsible and get them resolved.</strong></li> <li><strong>Work closely with Sales, Underwriting, and Closing to give everyone timely, accurate service.</strong></li> <li><strong>Compile team scorecard data each quarter to track KPIs and quality.</strong></li> </ul> <p><strong><em>Improve how we work</em></strong></p> <ul> <li><strong>Help the Director of Lending Operations find gaps in process and policy across the Loan Assistant and post-closing functions. </strong></li> <li><strong>Write or update procedures for review, training, and rollout, then follow up to make sure the changes stick.</strong></li> <li><strong>Set best practices and change the workflow when needed so the team runs efficie",
-      "postedAt": "Sun, 01 Nov 2026 07:31:04 +0000",
-      "eligibilityTier": "confirmed",
-      "eligibilityReason": "Worldwide / Asia-friendly remote",
-      "matchScore": 60,
-      "matchReason": "Title is frontend-adjacent · Signals: performance, remote · Seniority: lead · Remote-friendly",
-      "matchedBy": "profile-matcher-v1"
-    },
-    {
-      "id": "5188002",
-      "source": "greenhouse",
-      "title": "Engineering Manager",
-      "company": "Canonical",
-      "url": "https://job-boards.greenhouse.io/canonical/jobs/5188002",
-      "location": "Home based - Worldwide",
-      "salary": "",
-      "tags": [
-        "Engineering Fast Track",
-        "Home Based - Worldwide",
-        "greenhouse"
-      ],
-      "description": "<p>Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p> <p>The company is founder-led, profitable, and growing.</p> <p>This is a general track for first-level engineering management positions at Canonical.</p> <p>We believe that open source is just starting to transform the tech sector and enterprise compute. Our goal is to make open source easier, more reliable, and more secure for deployment and development. We strive to be the provider of ‘most software to most companies’. To deliver on that ambition, our engineers are carefully selected from the applicants across the globe. We select for brilliance and motivation to take open source to the next level. Our engineering managers help teams achieve more than they realised they could, and feel proud of the result.</p> <p>We believe that Engineering Managers should be outstanding developers themselves. They should be completely at home reviewing a patch or a software design spec. They are trusted engineers who understand the importance of a whole-team effort in creating great products and who enjoy seeing colleagues develop. They should contribute code themselves to set the standard for coding, but know that the code they write is far less significant than their ability to shape the whole team’s direction, focus, and delivery. We grow management skills and train engineers who are interested in soft skills to be managers.</p> <p>A typical first-level software engineering team is based in a single time zone, such as EMEA or Americas, or APAC, with an Engineering Manager and a Senior Engineer dedicated to a single product, who work as a team to shape the roadmap, technical strategy, code, documentation, and community engagement. They are both capable of coding, and are both leaders comfortable assigning work and maintaining expectations of delivery. They will both be expected to take management training at Canonical so they speak the same language when it comes to team behaviours, habits, routines, norms, and standards, but they focus on different sides of the problem.</p> <p>An Engineering Manager is responsible for line management and career guidance. The ability to develop engineering talent, to represent your team and product from a technical perspective, and to drive collaboration with other teams and customers are all critical to success in this role.</p> <p>We have open manager roles across a wide range of engineering domains, including:&nbsp;</p> <ul> <li>Python and Golang</li> <li>C / C++ / Rust</li> <li>Data infrastructure</li> <li>HTML / CSS / JavaScript / Typescript / React</li> <li>Flutter</li> <li>Distro packaging and systems</li> <li>SAAS and web microservices</li> <li>Kernel</li> <li>Servers</li> <li>Graphics, Browser and Desktop&nbsp;&nbsp;</li> <li>Silicon enablement and embedded devices</li> <li>Product Security</li> </ul> <p>If your domain of expertise isn’t listed above, yet you feel it’s relevant to Canonical, then feel free to apply anyway. We will route you to the most suitable team.</p> <p><strong>Location:</strong> <em>we have engineering management positions open in every time zone</em></p> <h2>What you’ll do</h2> <ul> <li>Lead and develop a team of engineers, ranging from graduate to senior</li> <li>Work remotely in a single major time zone, sometimes two</li> <li>Coach, mentor, and offer career development feedback</li> <li>Identify and measure team health ",
-      "postedAt": "2026-08-05T18:23:33-04:00",
-      "ats": "greenhouse",
-      "companySlug": "canonical",
-      "eligibilityTier": "confirmed",
-      "eligibilityReason": "Worldwide / Asia-friendly remote",
-      "matchScore": 58,
-      "matchReason": "Title is frontend-adjacent · Skills: react, typescript, javascript, html, css · Signals: remote · Seniority: senior",
-      "matchedBy": "profile-matcher-v1"
-    },
-    {
-      "id": "2804965",
-      "source": "greenhouse",
-      "title": "Web Developer",
-      "company": "Canonical",
-      "url": "https://job-boards.greenhouse.io/canonical/jobs/2804965",
-      "location": "Home based - EMEA",
-      "salary": "",
-      "tags": [
-        "Web Engineering",
-        "Home Based - Worldwide",
-        "greenhouse"
-      ],
-      "description": "<p><span style=\"font-weight: 400;\">Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</span></p> <p><span style=\"font-weight: 400;\">The company is founder-led, profitable, and growing.</span></p> <h3><strong>Our mission is great open source</strong></h3> <p><span style=\"font-weight: 400;\">It is our mission to make open source software available to people everywhere. We create world-renowned software, impacting the lives of millions of people every day.</span></p> <p><span style=\"font-weight: 400;\">The web team works in a multi-disciplinary environment with visual designers, UX designers and other developers to bring exciting new web projects to life. We help and learn from each other and constantly strive to improve both our work and our processes.</span></p> <h3><strong>Required skills and experience</strong></h3> <ul> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Demonstrable experience of work on modern web applications</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">A strong understanding of HTML, CSS with SCSS and JavaScript</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience with Javascript components libraries</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience with TypeScript</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience with responsive user interfaces for a wide range of devices and browsers</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience with Git or other version control systems</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Awareness of SEO best practice</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Consideration of accessibility in all aspects of your work</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">A strong understanding of web performance in complex user interfaces</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Ability to interact with UX, designers and server-side developers</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Curiosity about technology and a thirst to learn</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Based in EMEA timezones (Europe, the Middle East and Africa)</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">University degree or equivalent education</span></li> </ul> <h3><strong>Useful experience if you have it</strong></h3> <ul> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Familiarity with Linux desktop technologies</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Server-side languages, such as Python or NodeJS</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Experience working on a large scale React (with TypeScript) project</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">A history of open source contributions</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Relevant work experience</span></li> </ul> <h3><strong>Who you are</strong></h3> <p><span style=\"font-weight: 400;\">We want a Web Developer who loves what they do. You are passionate about web standards and keep abreast of new developments in our industry. You alw",
-      "postedAt": "2026-11-16T05:42:48-05:00",
-      "ats": "greenhouse",
-      "companySlug": "canonical",
-      "eligibilityTier": "verify",
-      "eligibilityReason": "Confirm hires in Pakistan/Asia (EMEA listing)",
-      "matchScore": 96,
-      "matchReason": "Title is frontend-adjacent · Skills: react, typescript, nodejs, javascript, html, css · Signals: nodejs, spa, performance, accessibility · Seniority: lead",
-      "matchedBy": "profile-matcher-v1"
-    },
-    {
-      "id": "8194576",
-      "source": "greenhouse",
-      "title": "Frontend Engineer, Ads",
-      "company": "Reddit",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
-      "location": "Remote - United States",
-      "salary": "",
-      "tags": [
-        "Ads Product & Engineering",
-        "Remote - United States",
-        "greenhouse"
-      ],
-      "description": "<div class=\"content-intro\"><div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"> <div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\"> <div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\"> <div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\"> <div class=\"p-rich_text_block\"> <div class=\"p-rich_text_section\">Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit <a class=\"c-link\" href=\"http://www.redditinc.com/\" target=\"_blank\" data-stringify-link=\"http://redditinc.com\" data-sk=\"tooltip_parent\">www.redditinc.com</a>.</div> </div> </div> </div> </div> </div></div><p><strong>Team Description</strong></p> <p>The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads, with the goal of turning Reddit into an industry leader and a ‘must buy’ for advertisers to promote video content.</p> <p><strong>Role Description</strong></p> <p>The Brand Ad Formats team is seeking a skilled Frontend engineer with a product-focused mindset to join the team.</p> <p><strong>Responsibilities:</strong></p> <ul> <li>Build Ad experiences and create patterns for Reddit’s web app that enhance our ads’ performance and functionality.</li> <li>Collaborate across product, design, and engineering teams to innovate and implement sophisticated solutions for complex challenges.</li> <li>Engage in the full development cycle: design, develop, QA, experiment, analyze, and deploy.</li> </ul> <p><strong>Required Qualifications:</strong></p> <ul> <li>3+ years of experience in Web Engineering</li> <li>Proficient in Typescript and Javascript</li> <li>A willingness to tackle the challenges of creating data-intensive, highly responsive, and fault-tolerant apps</li> <li>Experience with automated testing best practices, code quality / design patterns, observability, etc.</li> <li>Skilled at performing insightful code reviews, and receiving feedback themself</li> <li>Experience leveraging GenAI tools to increase software engineering productivity</li> <li>Excellent communication skills: able to collaborate with teams in a fully remote environment, and discuss complex topics with technical and non-technical audiences</li> </ul> <p><strong>Preferred Qualifications:</strong></p> <ul> <li>Experience working on ad tech</li> </ul> <ul> <li>Experience working on consumer facing sites (high production value at scale)</li> </ul> <p><strong>Technologies used on the team include:</strong></p> <ul> <li>Languages: Typescript, HTML, CSS, Go</li> <li>Frameworks: React, Thrift, gRPC</li> <li>Tools: Kubernetes, Docker, Codex, Cursor</li> </ul><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><strong>Pay Transparency:</strong></p> <p>This job posting may span more than one career level.</p> <p>In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medic",
-      "postedAt": "2026-11-16T07:18:45-05:00",
-      "ats": "greenhouse",
-      "companySlug": "reddit",
-      "eligibilityTier": "verify",
-      "eligibilityReason": "Confirm hires in Pakistan/Asia",
-      "matchScore": 88,
-      "matchReason": "Title match: frontend engineer · Skills: react, typescript, javascript, html, css · Signals: spa, performance, remote · Seniority: lead",
-      "matchedBy": "profile-matcher-v1"
-    },
-    {
-      "id": "8175520",
-      "source": "greenhouse",
-      "title": "Senior Frontend Engineer, Ads Creative",
-      "company": "Reddit",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8175520",
-      "location": "Remote - United States",
-      "salary": "",
-      "tags": [
-        "Ads Product & Engineering",
-        "San Francisco",
-        "greenhouse"
-      ],
-      "description": "<div class=\"content-intro\"><div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"> <div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\"> <div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\"> <div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\"> <div class=\"p-rich_text_block\"> <div class=\"p-rich_text_section\">Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit <a class=\"c-link\" href=\"http://www.redditinc.com/\" target=\"_blank\" data-stringify-link=\"http://redditinc.com\" data-sk=\"tooltip_parent\">www.redditinc.com</a>.</div> </div> </div> </div> </div> </div></div><h2>Team Description</h2> <p>The Ads Creative &amp; Recommendations team makes it easier for advertisers to maximize performance on Reddit through relevant creative and actionable recommendations.</p> <p>We own the advertiser-facing workflows where creative, recommendations, and campaign creation come together.</p> <p>Our goal is to reduce blank-canvas work and help advertisers move from an idea to an effective campaign with less friction. We build unified experiences that give advertisers useful context, evidence-backed guidance, and the ability to refine the system’s suggestions.</p> <h2>Role Description</h2> <p>We’re looking for a senior frontend engineer with deep JavaScript, TypeScript, and React experience to help shape the next generation of Reddit’s advertiser tools.</p> <p>You’ll independently own complex and sometimes ambiguous areas of the product, from technical design through launch and iteration. You’ll work closely with product, design, data science, machine learning, and backend engineering to turn sophisticated capabilities into workflows that feel simple and dependable.</p> <p>This role is a strong fit for someone who cares about both the architecture behind a frontend system and the details that make a product intuitive, fast, accessible, and maintainable.</p> <h2>Responsibilities</h2> <ul> <li>Own the technical design and delivery of complex frontend features across Ads Manager’s creative and recommendation workflows.</li> <li>Translate AI-backed capabilities into interfaces that advertisers can understand, steer, and refine.</li> <li>Partner with product and design to work through ambiguous requirements and make sound product and engineering tradeoffs.</li> <li>Develop reusable frontend patterns and components that support a unified campaign creation experience.</li> <li>Instrument experiences, evaluate results, and use experiments and product data to guide iteration.</li> <li>Raise the quality of the codebase through thoughtful architecture, testing, observability, performance work, and accessibility.</li> <li>Provide high-quality code reviews and technical guidance, and help other engineers grow.</li> <li>Collaborate across frontend, backend, data, and machine learning systems to deliver reliable end-to-end experiences.</li> </ul> <h2>Required Qualifications</h2> <ul> <li>5+ years of experience building production web applications with JavaScript, TypeScript, and React.</li> <li>Comfort using Codex, Cursor, Claude, or comparable agentic coding tools in day-to-day software development.</li> <li>A track record of independently delivering complex frontend projects from technical design through launch and iteration.</li> <li>Sound judgment in frontend architecture, state management, component design, testing, and API integration.</li> <li>Experience building polished user interfaces with close attention to usability, performance, accessibility, and maintainability.</li> <",
-      "postedAt": "2026-11-16T07:18:47-05:00",
-      "ats": "greenhouse",
-      "companySlug": "reddit",
-      "eligibilityTier": "verify",
-      "eligibilityReason": "Confirm hires in Pakistan/Asia",
-      "matchScore": 80,
-      "matchReason": "Title match: senior frontend, frontend engineer · Skills: react, typescript, javascript, canvas · Signals: performance, accessibility, remote · Seniority: senior",
-      "matchedBy": "profile-matcher-v1"
-    },
-    {
-      "id": "8287466",
-      "source": "greenhouse",
-      "title": "Senior Frontend Engineer, Ads Formats",
-      "company": "Reddit",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8287466",
-      "location": "Remote - United States",
-      "salary": "",
-      "tags": [
-        "Ads Product & Engineering",
-        "Remote - United States",
-        "greenhouse"
-      ],
-      "description": "<div class=\"content-intro\"><div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"> <div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\"> <div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\"> <div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\"> <div class=\"p-rich_text_block\"> <div class=\"p-rich_text_section\">Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit <a class=\"c-link\" href=\"http://www.redditinc.com/\" target=\"_blank\" data-stringify-link=\"http://redditinc.com\" data-sk=\"tooltip_parent\">www.redditinc.com</a>.</div> </div> </div> </div> </div> </div></div><h2><strong>Team Description</strong></h2> <p>The Ad Formats team builds and evolves Reddit’s ad experiences across all platforms and all format types, including image, video, carousel, shopping, etc.&nbsp;</p> <p>&nbsp;</p> <p>The team defines how those ads behave across placements like feed, conversation, search, making sure each format works in the right surfaces and contexts across Reddit. The team supports the end-to-end user ad experience, including media rendering, click behavior, special click variants like lead gen, and the UI details that make promoted content feel native to Reddit while optimizing for advertiser's goals.</p> <p>&nbsp;</p> <p>Within this area, the <em>Ad Formats Foundation</em> team owns the common infrastructure behind all ad formats, with a mission to improve developer efficiency, system reliability, and long-term scalability across the stack. We are responsible for modernizing core formats infrastructure, standardized format data, drive cross-platform consistency and compliance for ad formats to reduce bugs and allow the formats team to iterate quickly and improve the developer velocity.&nbsp;</p> <p>&nbsp;</p> <p>Our goal is to continuously improve ad formats infrastructure, with a focus on increasing developer efficiency and system reliability through tech stack modernization, scalability investments, and compliance work.</p> <h2><strong>Role Description</strong></h2> <p>We’re looking for a senior frontend engineer with deep JavaScript, TypeScript, and browser platform expertise to help strengthen Reddit’s advertising experiences across desktop and mobile web. You will partner with product and design to work through ambiguous requirements and make sound product and engineering tradeoffs.</p> <p>&nbsp;</p> <p>You’ll work closely with Ads and Web Platform engineers to solve complex frontend challenges while maintaining site performance, accessibility, and a dependable user experience. This role is a strong fit for someone who enjoys browser-level problem solving, navigating ambiguity, and building maintainable systems with measurable impact.</p> <h2><strong>Responsibilities</strong></h2> <ul> <li>Develop resilient frontend approaches to reduce ad disruptions, drawing on deep knowledge of JavaScript, TypeScript, HTML, CSS, the DOM, and browser networking.</li> <li>Partner with Ads and Web Platform teams to integrate solutions into shared rendering infrastructure, frontend architecture, and build systems.</li> <li>Design controlled experiments and phased rollouts to measure effectiveness while protecting site performance, accessibility, and user experience.</li> <li>Build instrumentation and monitoring to track mitigation effectiveness, detect regressions, and guide iteration.</li> <li>Implement ad rendering, event collection, click handling, browser extensions across multiple Ad formats.</li> <li>Contribute to broader foundational improvements in web advertising",
-      "postedAt": "2026-11-16T07:18:48-05:00",
-      "ats": "greenhouse",
-      "companySlug": "reddit",
-      "eligibilityTier": "verify",
-      "eligibilityReason": "Confirm hires in Pakistan/Asia",
-      "matchScore": 72,
-      "matchReason": "Title match: senior frontend, frontend engineer · Skills: typescript, javascript, html, css · Signals: performance, accessibility, remote · Seniority: senior",
-      "matchedBy": "profile-matcher-v1"
+      "matchScore": 66,
+      "matchReason": "Generic eng/full-stack title · React + TypeScript · Next.js · Skills: react, typescript, next.js, javascript",
+      "matchedBy": "profile-matcher-v2"
     },
     {
       "id": "8303798",
@@ -314,32 +205,32 @@
       "companySlug": "reddit",
       "eligibilityTier": "verify",
       "eligibilityReason": "Confirm hires in Pakistan/Asia",
-      "matchScore": 64,
-      "matchReason": "Title is frontend-adjacent · Skills: react, typescript, javascript, html · Signals: next.js, performance, remote · Seniority: senior",
-      "matchedBy": "profile-matcher-v1"
+      "matchScore": 63,
+      "matchReason": "Generic eng/full-stack title · React + TypeScript · Next.js · Skills: react, typescript, next.js, javascript",
+      "matchedBy": "profile-matcher-v2"
     },
     {
-      "id": "8180636",
+      "id": "8194576",
       "source": "greenhouse",
-      "title": "Staff Software Engineer, Developer Ecosystem",
+      "title": "Frontend Engineer, Ads",
       "company": "Reddit",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8180636",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
       "location": "Remote - United States",
       "salary": "",
       "tags": [
-        "Dev Platform",
+        "Ads Product & Engineering",
         "Remote - United States",
         "greenhouse"
       ],
-      "description": "<div class=\"content-intro\"><div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"> <div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\"> <div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\"> <div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\"> <div class=\"p-rich_text_block\"> <div class=\"p-rich_text_section\">Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit <a class=\"c-link\" href=\"http://www.redditinc.com/\" target=\"_blank\" data-stringify-link=\"http://redditinc.com\" data-sk=\"tooltip_parent\">www.redditinc.com</a>.</div> </div> </div> </div> </div> </div></div><p>Reddit is a platform built on creativity, and our users are constantly finding new ways to make it their own. Tens of thousands of external developers are already building apps on Reddit, and we’re just getting started.</p> <p>We’re looking for a Staff Software Engineer to help shape the future of our developer platform. You’ll work across frontend, backend, SDKs, platform, and full-stack systems to make it easier for developers to build useful, creative, and delightful apps on Reddit.</p> <p>You’ll help define the technical direction of the platform, lead important initiatives, and build the foundation for new developer experiences. You’ll work closely with engineers, product managers, designers, and other teams to solve complex problems and turn ambitious ideas into real products. This is a very hands-on role. We collaborate closely with Redditors and reddit.com regularly.</p> <p>If you enjoy building new things, working across technical boundaries, and making delightful experiences for developers, we’d love to hear from you.</p> <p><strong>What You’ll Be Working On</strong></p> <ul> <li>Designing and implementing platform features, making the developer platform easier, faster, and more powerful to build on</li> <li>Leading major technical initiatives from early exploration through launch</li> <li>Building the systems and tools that support future developer experiences</li> <li>Working across backend, infrastructure, client, and full-stack components</li> <li>Helping create a collaborative team with a strong sense of ownership</li> </ul> <p><strong>Who You Might Be</strong></p> <ul> <li>6+ years of industry experience working on platform functionality, developer tools, full-stack products, or app platforms</li> <li>Experience leading large-scale technical projects from design through delivery</li> <li>API design and platform engineering experience, with a strong sense of developer empathy&nbsp;</li> <li>Familiarity with technologies such as Go, TypeScript, GraphQL, React, Redis, relational / NoSQL databases, along with the ability to work across the stack when needed</li> <li>A habit of using AI tools in your daily work to improve productivity and software quality</li> <li>A track record of mentoring engineers and raising the bar for software engineering practices through intentional efforts contributing to team culture</li> <li>A passion for building high-quality software that people enjoy using</li> <li>An entrepreneurial mindset: you’re self-directed, curious, comfortable with ambiguity, and eager to turn ideas into action</li> <li>Excellent communication skills, with the ability to work effectively in a fully remote environment and explain complex topics to both technical and non-technical audiences</li> </ul> <p><strong>Responsibilities:</strong></p> <ul> <li>Build and evolve the core platform services and capabilities that power the developer experience.</li> <li>Create new capab",
-      "postedAt": "2026-10-23T10:06:06-04:00",
+      "description": "<div class=\"content-intro\"><div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"> <div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\"> <div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\"> <div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\"> <div class=\"p-rich_text_block\"> <div class=\"p-rich_text_section\">Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit <a class=\"c-link\" href=\"http://www.redditinc.com/\" target=\"_blank\" data-stringify-link=\"http://redditinc.com\" data-sk=\"tooltip_parent\">www.redditinc.com</a>.</div> </div> </div> </div> </div> </div></div><p><strong>Team Description</strong></p> <p>The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads, with the goal of turning Reddit into an industry leader and a ‘must buy’ for advertisers to promote video content.</p> <p><strong>Role Description</strong></p> <p>The Brand Ad Formats team is seeking a skilled Frontend engineer with a product-focused mindset to join the team.</p> <p><strong>Responsibilities:</strong></p> <ul> <li>Build Ad experiences and create patterns for Reddit’s web app that enhance our ads’ performance and functionality.</li> <li>Collaborate across product, design, and engineering teams to innovate and implement sophisticated solutions for complex challenges.</li> <li>Engage in the full development cycle: design, develop, QA, experiment, analyze, and deploy.</li> </ul> <p><strong>Required Qualifications:</strong></p> <ul> <li>3+ years of experience in Web Engineering</li> <li>Proficient in Typescript and Javascript</li> <li>A willingness to tackle the challenges of creating data-intensive, highly responsive, and fault-tolerant apps</li> <li>Experience with automated testing best practices, code quality / design patterns, observability, etc.</li> <li>Skilled at performing insightful code reviews, and receiving feedback themself</li> <li>Experience leveraging GenAI tools to increase software engineering productivity</li> <li>Excellent communication skills: able to collaborate with teams in a fully remote environment, and discuss complex topics with technical and non-technical audiences</li> </ul> <p><strong>Preferred Qualifications:</strong></p> <ul> <li>Experience working on ad tech</li> </ul> <ul> <li>Experience working on consumer facing sites (high production value at scale)</li> </ul> <p><strong>Technologies used on the team include:</strong></p> <ul> <li>Languages: Typescript, HTML, CSS, Go</li> <li>Frameworks: React, Thrift, gRPC</li> <li>Tools: Kubernetes, Docker, Codex, Cursor</li> </ul><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><strong>Pay Transparency:</strong></p> <p>This job posting may span more than one career level.</p> <p>In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medic",
+      "postedAt": "2026-11-16T07:18:45-05:00",
       "ats": "greenhouse",
       "companySlug": "reddit",
       "eligibilityTier": "verify",
       "eligibilityReason": "Confirm hires in Pakistan/Asia",
       "matchScore": 60,
-      "matchReason": "Title is frontend-adjacent · Skills: react, typescript · Signals: remote · Seniority: lead",
-      "matchedBy": "profile-matcher-v1"
+      "matchReason": "Title match: frontend engineer · React + TypeScript · Skills: react, typescript, javascript · Signals: spa, performance, remote",
+      "matchedBy": "profile-matcher-v2"
     }
   ]
 }

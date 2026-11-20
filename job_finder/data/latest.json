@@ -1,17 +1,17 @@
 {
   "date": "2026-11-20",
-  "generatedAt": "2026-11-20T07:52:22.365Z",
+  "generatedAt": "2026-11-20T09:33:12.373Z",
   "meta": {
     "fetchedCount": 1036,
     "freshCount": 1021,
     "alreadyProcessedCount": 15,
     "eligibleCount": 159,
     "droppedCount": 862,
-    "confirmedCount": 1,
-    "verifyCount": 1,
-    "matchedCount": 2,
-    "matcherNote": "local",
-    "refineNote": "Cursor refine failed; local matcher only",
+    "confirmedCount": 0,
+    "verifyCount": 0,
+    "matchedCount": 0,
+    "matcherNote": "local-rescore-v2",
+    "refineNote": "Historical rescore with frontend React/Next/TS/MERN matcher",
     "filterNote": "Two-tier Pakistan remote filter + curated ATS + skip already-processed",
     "errors": [],
     "sources": [
@@ -23,71 +23,9 @@
       "ats",
       "wwr",
       "muse"
-    ]
+    ],
+    "rescoredAt": "2026-11-20T09:33:12.350Z",
+    "rescoredFromCount": 2
   },
-  "jobs": [
-    {
-      "id": "https://weworkremotely.com/remote-jobs/postscript-senior-fullstack-engineer-customer-context",
-      "source": "wwr",
-      "title": "Senior Fullstack Engineer, Customer Context",
-      "company": "Postscript",
-      "url": "https://weworkremotely.com/remote-jobs/postscript-senior-fullstack-engineer-customer-context",
-      "location": "Anywhere in the World",
-      "salary": "",
-      "tags": [
-        "Full-Stack Programming",
-        "Full-Time",
-        "weworkremotely"
-      ],
-      "description": "<p> <strong>Headquarters:</strong> Remote </p> <div class=\"content-intro\"><p>Postscript is the AI messaging platform trusted by 20,000+ Shopify brands — including Brooklinen, Ruggable, True Classic, and Dr. Squatch.&nbsp;</p> <p>With a mission to make SMS your number one revenue driving channel, we built the best-in-class SMS marketing platform and launched revenue-driving AI features not available on any other platform. And we're just getting started.&nbsp;</p> <p>Backed by Greylock and Y Combinator, fully remote since 2018.</p></div><p>We are looking for a polyglot <strong>Senior Fullstack Engineer</strong> to join the <strong>Customer Context&nbsp; </strong>team. You’ll help build and scale the foundational services, APIs, and pipelines that power the Postscript product. This role blends strong backend engineering skills with a deep appreciation for data intensive systems, performance, and reliability. You’ll collaborate closely with other software engineers, data engineers, and product to help e-commerce marketers maximize their revenue with best-in-class targeting and context-driven AI.</p> <p>This is a high-autonomy role for engineers who are energized by ambiguity, take genuine ownership of their work, and bring a strong point of view on how to build things well, without sacrificing speed or pragmatism. AI isn't a nice-to-have here — it's central to how we work. We expect our engineers to be active practitioners of AI-first development: fluent with the latest agentic coding tools, curious about what's emerging, and constantly pushing the boundary of what's possible with AI in their day-to-day craft. If you're the kind of engineer who's already experimenting with new models and tooling before anyone asks you to, you'll feel at home here.</p> <p>As a senior engineer at Postscript, you’ll no longer be only writing code but orchestrating it.&nbsp;</p> <p><span><strong>This position is fully remote and can be based in the US or Canada.</strong></span></p> <h2><strong>What You'll Do</strong></h2> <ul> <li>Take deep ownership of systems and product areas on your team, and become the go-to technical expert for what you own</li> <li>Independently investigate, design, and execute solutions across distributed systems with a high degree of ambiguity</li> <li>Architect, build, and maintain highly available, scalable REST APIs and backend services for internal and external use</li> <li>Drive system decoupling, modularization, and technical debt reduction.. Improve long-term maintainability without blocking near-term delivery</li> <li>Build agentically as your default: leveraging concurrent autonomous agent workflows, owning the output, and keeping a steady queue of aligned work moving</li> <li>Stay at the forefront of emerging AI tooling and practices, bringing new techniques back to the team and helping raise the floor for how Postscript engineers work</li> <li>Contribute to how we think about integrating AI into our systems and workflows. That means not just using AI tools, but helping shape where and how AI creates leverage across the engineering org</li> <li>Collaborate cross-functionally with product, data, and go-to-market teams by communicating clearly and proactively in an async-first environment</li> <li>Identify and eliminate single points of failure, improving system resilience and knowledge redundancy across your team</li> <li>Improve how engineering gets done: bring better tools, fix workflow friction, build internal utilities when the leverage compounds</li> </ul> <h2><strong>What We're Looking For</strong></h2> <ul> <li>6+ years of experience building large-scale data-intensive backend systems and APIs</li> <li>You are an active, daily user of AI coding tools and are using them to maximize your output — Claude Code, Codex, Cursor, Copilot, or equivalent — and can speak concretely to how they've changed your output and your workflow</li> <li>Some or all of these languages: Python, Go, Rust, React, and TypeScript</li> <l",
-      "postedAt": "Fri, 20 Nov 2026 06:01:27 +0000",
-      "eligibilityTier": "confirmed",
-      "eligibilityReason": "Worldwide / Asia-friendly remote",
-      "matchScore": 64,
-      "matchReason": "Title is frontend-adjacent · Skills: react, typescript · Signals: spa, performance, remote · Seniority: senior",
-      "matchedBy": "profile-matcher-v1"
-    },
-    {
-      "id": "1137805",
-      "source": "remoteok",
-      "title": "SEO Full Stack Engineer",
-      "company": "Treatwell",
-      "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
-      "location": "",
-      "salary": "",
-      "tags": [
-        "full stack",
-        "react",
-        "rabbitmq",
-        "front end",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "design",
-        "web dev",
-        "exec",
-        "devops",
-        "finance",
-        "java",
-        "postgres",
-        "typescript",
-        "seo",
-        "senior",
-        "stats",
-        "engineer",
-        "recruiter",
-        "backend",
-        "digital nomad"
-      ],
-      "description": "We're looking for a full-stack engineer to join our Product Engineering team, reporting to one of the Engineering Managers of the Marketplace area, with a dotted line to the Marketing SEO Manager, focused on supporting the Growth and Marketing area. This role will have a 60% focus on Front End, and 40% focus on Back End. You'll work on Treatwellâs Marketplace products and help Treatwell be discovered, understood, and chosen across 13 markets: SEO foundations, site performance, experimentation, analytics instrumentation, and the product surfaces that connect customer intent with booking, alongside three product engineering teams in the Marketplace area, contributing across the full breadth of what makes Treatwell's marketplace tick. As a full-stack engineer, you're the person who can move fluidly between teams accelerating growth and marketing efforts wherever the need is greatest. You bring the mindset of someone who cares about how people find Treatwell, what experience they land on, and whether the product helps them make a confident booking. You are comfortable partnering with marketing and growth stakeholders, while staying grounded in engineering quality and product outcomes. â¡ï¸ Our product is built on: Backend: Java, Spring Boot, RabbitMQ, PostgreSQL, MS-SQL Frontend: React, TypeScript, Cypress, Jest Infrastructure: Kubernetes, GitLab CI/CD, AWS, Datadog Mindset: DevOps, DDD, event-driven architecture ð¡ About Treatwell Hi, weâre Treatwell. Nice to meet you. Weâre a team of 800 passionate and brilliantly talented people across Europe. Weâre the industryâs smartest salon management software, all connected to Europeâs leading bookings platform, working with over 95,000 salon partners across 14 countries, processing over 14 million bookings every month. Andâ¦.breathe. But weâre not done yet. Weâre on an exciting journey to digitally revolutionise the hair and beauty community. If this excites you, we might just have the role for you. ð§ You will be responsible for: Growth and marketing engineering - build and evolve the technical foundations that support customer acquisition, activation, and retention across Treatwell's markets Discoverability - improve how search engines and users understand Treatwell's marketplace, without turning the role into a pure SEO implementation function Experimentation and measurement - instrument your work, support testing frameworks, and help teams validate ideas with data before scaling them Product surfaces - ship user-facing improvements to landing pages, discovery journeys, and conversion flows, owning the work from problem framing through production Platform quality - own your services end-to-end, from architecture through deployment, with a DevOps mindset baked in Cross-functional clarity - translate growth and marketing opportunities into clear engineering work, challenge scope when needed, and keep quality standards high ð About you: You have proven experience owning production-grade web applications end-to-end, and understand that the best technical decisions come from deeply understanding the problem - not just the code (mid/senior level) You own features end-to-end - from database schema to UI, without needing a handoff You think in systems and trade-offs, not just tickets - you spot the upstream cause, not just the downstream symptom You have a product mindset - you think about the person using what you build, ask why before how, and push back when something doesn't make sense You're data-driven and hypothesis-led - you instrument your work, measure impact, and use evidence to make decisions You can partner with non-engineering stakeholders, turning ambiguous growth or marketing needs into sensible technical options You will act as the key technical partner for marketing stakeholders, evaluating the feasibility of their requests, managing expectations, and finding the right trade-off between business speed and technical quality (TBC). You are able to make",
-      "postedAt": "2026-11-18T16:00:31+00:00",
-      "eligibilityTier": "verify",
-      "eligibilityReason": "Confirm hires in Pakistan/Asia",
-      "matchScore": 58,
-      "matchReason": "Title is frontend-adjacent · Skills: react, typescript · Signals: performance · Seniority: senior",
-      "matchedBy": "profile-matcher-v1"
-    }
-  ]
+  "jobs": []
 }
