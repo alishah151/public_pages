@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T07:52:22.369Z",
+  "updatedAt": "2026-11-21T07:49:02.909Z",
   "jobs": {
     "url:https://job-boards.greenhouse.io/canonical/jobs/5211861": {
       "firstSeen": "2026-11-17",
@@ -342,6 +342,42 @@
       "title": "SEO Full Stack Engineer",
       "company": "Treatwell",
       "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805"
+    },
+    "url:https://weworkremotely.com/remote-jobs/ritual-frontend-engineer": {
+      "firstSeen": "2026-11-21",
+      "title": "Frontend Engineer",
+      "company": "Ritual",
+      "url": "https://weworkremotely.com/remote-jobs/ritual-frontend-engineer"
+    },
+    "sid:wwr::https://weworkremotely.com/remote-jobs/ritual-frontend-engineer": {
+      "firstSeen": "2026-11-21",
+      "title": "Frontend Engineer",
+      "company": "Ritual",
+      "url": "https://weworkremotely.com/remote-jobs/ritual-frontend-engineer"
+    },
+    "tc:frontend engineer|ritual": {
+      "firstSeen": "2026-11-21",
+      "title": "Frontend Engineer",
+      "company": "Ritual",
+      "url": "https://weworkremotely.com/remote-jobs/ritual-frontend-engineer"
+    },
+    "url:https://weworkremotely.com/remote-jobs/postscript-senior-software-engineer-full-stack-80-backend": {
+      "firstSeen": "2026-11-21",
+      "title": "Senior Software Engineer, Full Stack (80% backend)",
+      "company": "Postscript",
+      "url": "https://weworkremotely.com/remote-jobs/postscript-senior-software-engineer-full-stack-80-backend"
+    },
+    "sid:wwr::https://weworkremotely.com/remote-jobs/postscript-senior-software-engineer-full-stack-80-backend": {
+      "firstSeen": "2026-11-21",
+      "title": "Senior Software Engineer, Full Stack (80% backend)",
+      "company": "Postscript",
+      "url": "https://weworkremotely.com/remote-jobs/postscript-senior-software-engineer-full-stack-80-backend"
+    },
+    "tc:senior software engineer, full stack (80% backend)|postscript": {
+      "firstSeen": "2026-11-21",
+      "title": "Senior Software Engineer, Full Stack (80% backend)",
+      "company": "Postscript",
+      "url": "https://weworkremotely.com/remote-jobs/postscript-senior-software-engineer-full-stack-80-backend"
     }
   }
 }
