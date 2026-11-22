@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T07:36:46.232Z",
+  "meta": {
+    "fetchedCount": 1044,
+    "freshCount": 1027,
+    "alreadyProcessedCount": 17,
+    "eligibleCount": 161,
+    "droppedCount": 866,
+    "confirmedCount": 0,
+    "verifyCount": 1,
+    "matchedCount": 1,
+    "matcherNote": "local",
+    "refineNote": "Cursor refine failed; local matcher only",
+    "filterNote": "Two-tier Pakistan remote filter + curated ATS + skip already-processed",
+    "errors": [],
+    "sources": [
+      "remotive",
+      "remoteok",
+      "arbeitnow",
+      "himalayas",
+      "jobicy",
+      "ats",
+      "wwr",
+      "muse"
+    ]
+  },
+  "jobs": [
+    {
+      "id": "https://himalayas.app/companies/gsb-solutions/jobs/ai-augmented-fullstack-remote-in-mexico?utm_source=api",
+      "source": "himalayas",
+      "title": "AI Augmented Fullstack | Remote in Mexico",
+      "company": "GSB Solutions",
+      "url": "https://himalayas.app/companies/gsb-solutions/jobs/ai-augmented-fullstack-remote-in-mexico?utm_source=api",
+      "location": "-8 -7 -6 -5",
+      "salary": "",
+      "tags": [
+        "Senior-Fullstack-Developer",
+        "Full-Stack-Developer",
+        "Software-Engineer",
+        "Backend-Engineer"
+      ],
+      "description": "Important IT company At the Latin American level, growth requires: AI Augmented Fullstack Role overview We are looking for a Senior Full Stack Developer to build and maintain a multi-service application using C#, Core, React, TypeScript, and Azure. The role includes integration with the planned DataFusion backend platform using PostgreSQL, Delta Lake tables, and Databricks. The developer will own implementation, integration, reliability, security, and production support. The developer will use AI coding assistants to accelerate delivery while validating generated code and ensuring independently developed services work together consistently. Key responsibilities Design and develop REST APIs and background workers using C# and Core. Build React interfaces and integrate micro frontends with clear shell and remote boundaries. Implement asynchronous communication using Azure Service Bus queues, topics, and subscriptions. Define API and event contracts, including versioning and backward compatibility. Develop and optimize PostgreSQL queries, stored procedures, and functions where appropriate; manage indexing, transactions, schema migrations, and database performance. Integrate APIs and services with the planned DataFusion backend platform through defined interfaces and data contracts, using PostgreSQL and Delta Lake tables according to workload requirements. Develop, integrate, and troubleshoot Databricks data workflows using SQL and Python/PySpark as appropriate, including ingestion, transformation, Delta table updates, data validation, and job monitoring. Review and improve AI-generated code for correctness, maintainability, security, and performance. Write appropriate units, integration, contracts, and end-to-end tests. Implement authentication, authorization, structured logging, tracing, and monitoring. Maintain CI/CD pipelines, support releases, investigate incidents, and document architecture decisions. Required technical skills Years of experience: 8+ years of professional C#/.NET development, with hands-on delivery of production applications. Working experience with React, Databricks, PostgreSQL, and Delta Lake is required. Backend development: C#, Core, REST APIs, dependency injection, async/await, cancellation, background services, validation, and consistent API error handling. Frontend development: React, TypeScript, hooks, routing, state management, HTML, CSS, accessibility, and browser debugging. Micro frontends: Module Federation or equivalent integration approach; shared dependencies, routing, authentication integration, CSS isolation, and independent deployments. Messaging and distributed systems: Azure Service Bus settlement, message locks, retries, dead-letter queues, duplicate delivery, ordering, eventual consistency, service boundaries, and failure recovery. Data and security: PostgreSQL, SQL, EF Core with Npgsql, transactions, indexing, migrations, concurrency, OAuth 2.0, OpenID Connect, authorization, managed identities, and secrets management. Understanding transactional PostgreSQL and analytical Delta Lake workloads is required. Databricks and Delta Lake: Hands-on working experience with Databricks notebooks, SQL, jobs/workflows, and Python/PySpark for relevant data tasks. Experience with Delta tables, schema enforcement and evolution, MERGE/upserts, incremental processing, data quality, and performance troubleshooting. DataFusion backend integration: Ability to integrate .NET applications with the planned DataFusion platform, define API and data contracts, and work with PostgreSQL and Delta Lake-backed datasets through supported interfaces. Understanding data ownership, consistency, access controls, and operational failure handling. Testing and delivery: xUnit or equivalent, React Testing Library, Git, Docker, CI/CD, Azure hosting, Application Insights, and distributed tracing. AI application integration: Working understanding of agent workflows, tool/function calling, and retrieval-augmented generation (RAG",
+      "postedAt": 1795324650,
+      "eligibilityTier": "verify",
+      "eligibilityReason": "Confirm hires in Pakistan/Asia",
+      "matchScore": 76,
+      "matchReason": "Title is frontend-adjacent · Skills: react, typescript, html, css · Signals: spa, performance, accessibility, remote · Seniority: senior",
+      "matchedBy": "profile-matcher-v1"
+    }
+  ]
+}

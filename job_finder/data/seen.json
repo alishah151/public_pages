@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:49:02.909Z",
+  "updatedAt": "2026-11-22T07:36:46.237Z",
   "jobs": {
     "url:https://job-boards.greenhouse.io/canonical/jobs/5211861": {
       "firstSeen": "2026-11-17",
@@ -378,6 +378,24 @@
       "title": "Senior Software Engineer, Full Stack (80% backend)",
       "company": "Postscript",
       "url": "https://weworkremotely.com/remote-jobs/postscript-senior-software-engineer-full-stack-80-backend"
+    },
+    "url:https://himalayas.app/companies/gsb-solutions/jobs/ai-augmented-fullstack-remote-in-mexico": {
+      "firstSeen": "2026-11-22",
+      "title": "AI Augmented Fullstack | Remote in Mexico",
+      "company": "GSB Solutions",
+      "url": "https://himalayas.app/companies/gsb-solutions/jobs/ai-augmented-fullstack-remote-in-mexico?utm_source=api"
+    },
+    "sid:himalayas::https://himalayas.app/companies/gsb-solutions/jobs/ai-augmented-fullstack-remote-in-mexico?utm_source=api": {
+      "firstSeen": "2026-11-22",
+      "title": "AI Augmented Fullstack | Remote in Mexico",
+      "company": "GSB Solutions",
+      "url": "https://himalayas.app/companies/gsb-solutions/jobs/ai-augmented-fullstack-remote-in-mexico?utm_source=api"
+    },
+    "tc:ai augmented fullstack | remote in mexico|gsb solutions": {
+      "firstSeen": "2026-11-22",
+      "title": "AI Augmented Fullstack | Remote in Mexico",
+      "company": "GSB Solutions",
+      "url": "https://himalayas.app/companies/gsb-solutions/jobs/ai-augmented-fullstack-remote-in-mexico?utm_source=api"
     }
   }
 }
