@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T07:36:46.237Z",
+  "updatedAt": "2026-11-23T08:23:47.616Z",
   "jobs": {
     "url:https://job-boards.greenhouse.io/canonical/jobs/5211861": {
       "firstSeen": "2026-11-17",
@@ -396,6 +396,96 @@
       "title": "AI Augmented Fullstack | Remote in Mexico",
       "company": "GSB Solutions",
       "url": "https://himalayas.app/companies/gsb-solutions/jobs/ai-augmented-fullstack-remote-in-mexico?utm_source=api"
+    },
+    "url:https://weworkremotely.com/remote-jobs/upstart-frontend-software-engineer-personal-loans": {
+      "firstSeen": "2026-11-23",
+      "title": "Frontend Software Engineer, Personal Loans",
+      "company": "Upstart",
+      "url": "https://weworkremotely.com/remote-jobs/upstart-frontend-software-engineer-personal-loans"
+    },
+    "sid:wwr::https://weworkremotely.com/remote-jobs/upstart-frontend-software-engineer-personal-loans": {
+      "firstSeen": "2026-11-23",
+      "title": "Frontend Software Engineer, Personal Loans",
+      "company": "Upstart",
+      "url": "https://weworkremotely.com/remote-jobs/upstart-frontend-software-engineer-personal-loans"
+    },
+    "tc:frontend software engineer, personal loans|upstart": {
+      "firstSeen": "2026-11-23",
+      "title": "Frontend Software Engineer, Personal Loans",
+      "company": "Upstart",
+      "url": "https://weworkremotely.com/remote-jobs/upstart-frontend-software-engineer-personal-loans"
+    },
+    "url:https://weworkremotely.com/remote-jobs/smartsheet-sr-software-engineer-i-remote-eligible": {
+      "firstSeen": "2026-11-23",
+      "title": "Sr. Software Engineer I (Remote Eligible)",
+      "company": "Smartsheet",
+      "url": "https://weworkremotely.com/remote-jobs/smartsheet-sr-software-engineer-i-remote-eligible"
+    },
+    "sid:wwr::https://weworkremotely.com/remote-jobs/smartsheet-sr-software-engineer-i-remote-eligible": {
+      "firstSeen": "2026-11-23",
+      "title": "Sr. Software Engineer I (Remote Eligible)",
+      "company": "Smartsheet",
+      "url": "https://weworkremotely.com/remote-jobs/smartsheet-sr-software-engineer-i-remote-eligible"
+    },
+    "tc:sr. software engineer i (remote eligible)|smartsheet": {
+      "firstSeen": "2026-11-23",
+      "title": "Sr. Software Engineer I (Remote Eligible)",
+      "company": "Smartsheet",
+      "url": "https://weworkremotely.com/remote-jobs/smartsheet-sr-software-engineer-i-remote-eligible"
+    },
+    "url:https://weworkremotely.com/remote-jobs/descript-software-engineer-product": {
+      "firstSeen": "2026-11-23",
+      "title": "Software Engineer, Product",
+      "company": "Descript",
+      "url": "https://weworkremotely.com/remote-jobs/descript-software-engineer-product"
+    },
+    "sid:wwr::https://weworkremotely.com/remote-jobs/descript-software-engineer-product": {
+      "firstSeen": "2026-11-23",
+      "title": "Software Engineer, Product",
+      "company": "Descript",
+      "url": "https://weworkremotely.com/remote-jobs/descript-software-engineer-product"
+    },
+    "tc:software engineer, product|descript": {
+      "firstSeen": "2026-11-23",
+      "title": "Software Engineer, Product",
+      "company": "Descript",
+      "url": "https://weworkremotely.com/remote-jobs/descript-software-engineer-product"
+    },
+    "url:https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-predictions-mobile": {
+      "firstSeen": "2026-11-23",
+      "title": "Senior Software Engineer, Predictions (Mobile)",
+      "company": "Gemini",
+      "url": "https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-predictions-mobile"
+    },
+    "sid:wwr::https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-predictions-mobile": {
+      "firstSeen": "2026-11-23",
+      "title": "Senior Software Engineer, Predictions (Mobile)",
+      "company": "Gemini",
+      "url": "https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-predictions-mobile"
+    },
+    "tc:senior software engineer, predictions (mobile)|gemini": {
+      "firstSeen": "2026-11-23",
+      "title": "Senior Software Engineer, Predictions (Mobile)",
+      "company": "Gemini",
+      "url": "https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-predictions-mobile"
+    },
+    "url:https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-c-vue-6698": {
+      "firstSeen": "2026-11-23",
+      "title": "Hands-on Engineering Manager (C#/Vue)",
+      "company": "Miaplaza",
+      "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-c-vue-6698"
+    },
+    "sid:arbeitnow::remote-hands-on-engineering-manager-c-vue-6698": {
+      "firstSeen": "2026-11-23",
+      "title": "Hands-on Engineering Manager (C#/Vue)",
+      "company": "Miaplaza",
+      "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-c-vue-6698"
+    },
+    "tc:hands-on engineering manager (c#/vue)|miaplaza": {
+      "firstSeen": "2026-11-23",
+      "title": "Hands-on Engineering Manager (C#/Vue)",
+      "company": "Miaplaza",
+      "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-c-vue-6698"
     }
   }
 }

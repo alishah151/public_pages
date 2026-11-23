@@ -1,0 +1,134 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T08:23:47.611Z",
+  "meta": {
+    "fetchedCount": 1065,
+    "freshCount": 1048,
+    "alreadyProcessedCount": 17,
+    "eligibleCount": 173,
+    "droppedCount": 875,
+    "confirmedCount": 4,
+    "verifyCount": 1,
+    "matchedCount": 5,
+    "matcherNote": "local",
+    "refineNote": "Cursor refine failed; local matcher only",
+    "filterNote": "Two-tier Pakistan remote filter + curated ATS + skip already-processed",
+    "errors": [],
+    "sources": [
+      "remotive",
+      "remoteok",
+      "arbeitnow",
+      "himalayas",
+      "jobicy",
+      "ats",
+      "wwr",
+      "muse"
+    ]
+  },
+  "jobs": [
+    {
+      "id": "https://weworkremotely.com/remote-jobs/upstart-frontend-software-engineer-personal-loans",
+      "source": "wwr",
+      "title": "Frontend Software Engineer, Personal Loans",
+      "company": "Upstart",
+      "url": "https://weworkremotely.com/remote-jobs/upstart-frontend-software-engineer-personal-loans",
+      "location": "Anywhere in the World",
+      "salary": "",
+      "tags": [
+        "Front-End Programming",
+        "Full-Time",
+        "weworkremotely"
+      ],
+      "description": "<p> <strong>Headquarters:</strong> United States | Remote </p> <div class=\"content-intro\"><p><strong>About Upstart</strong></p> <p>At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence.</p> <p>As the leading AI lending marketplace, we partner with banks and credit unions to expand access to affordable credit through technology that’s both radically intelligent and deeply human. Our platform runs over one million predictions per borrower using more than 3,000 signals, powering smarter, fairer decisions for millions of customers. But the numbers only hint at the impact. Every idea, every voice, and every contribution moves us closer to a world where credit never stands between people and their financial progress.</p> <p>We’re proudly digital-first, giving most Upstarters the flexibility to do their best work from wherever they thrive, alongside teammates across 80+ cities in the US and Canada. Digital-first doesn’t mean distant. We’re intentional about in-person connection through team onsites, planning sessions, and moments that spark creativity and trust. And whether you choose to work primarily from home or collaborate in-person from one of our offices in Columbus, Austin, the Bay Area, or New York City, you’ll have the support to work in the way that works best for you.</p> <p>If you’re energized by tackling meaningful problems, excited to innovate with purpose, and motivated by work that truly matters, we’d love to hear from you.</p></div><p><strong>The Team:&nbsp;</strong></p> <p class=\"wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea\">Unsecured Installments is one of Upstart's core lending products, helping borrowers access credit through a seamless, digitally native experience. The team owns critical parts of the borrower journey across offer generation, pricing, underwriting, funding, and borrower experience, while working closely with the broader lending platform that powers Upstart at scale. Recent work has focused on improving borrower flows, repricing and rate flexibility, partnership experiences, and the overall quality of the customer-facing experience.</p> <p class=\"wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea\">As a Senior Software Engineer on the Unsecured Installments team, you'll be a technical leader for the frontend and full-stack experiences that borrowers interact with directly. Working primarily in React and TypeScript, you'll own the delivery of large, multi-month projects, shape the architecture of the team's mobile-web and full-stack surfaces, and set a high bar for quality across the borrower experience. You'll partner closely with product, design, and backend engineers to turn ambiguous problems into durable, well-architected solutions, and you'll mentor other engineers along the way.</p> <p class=\"wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea\">&nbsp;</p> <p><strong>How you’ll make an impact</strong></p> <ul class=\"wnfdnte\"> <li class=\"wnfdntd _1ibi0s33w\"> <p class=\"wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea\">Own the design and delivery of large, complex frontend initiatives using React and TypeScript, from planning and sequencing through launch and long-term maintenance.</p> </li> <li class=\"wnfdntd _1ibi0s33w\"> <p class=\"wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea\">Set technical direction for the team's frontend architecture, owning a 3–6 month roadmap and proactively addressing systemic gaps that threaten team effectiveness.</p> </li> <li class=\"wnfdntd _1ibi0s33w\"> <p class=\"wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea\">Partner closely with product, design, and backend engineers to translate roadmap priorities and borrower needs into scalable, high-quality experiences.</p> </li> <li class=\"wnfdntd _1ibi0s33w\"> <p class=\"wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea\">Raise the bar for engineeri",
+      "postedAt": "Mon, 23 Nov 2026 06:00:57 +0000",
+      "eligibilityTier": "confirmed",
+      "eligibilityReason": "Worldwide / Asia-friendly remote",
+      "matchScore": 80,
+      "matchReason": "Title is frontend-adjacent · Skills: react, typescript · Signals: spa, remote · Seniority: senior",
+      "matchedBy": "profile-matcher-v1"
+    },
+    {
+      "id": "https://weworkremotely.com/remote-jobs/smartsheet-sr-software-engineer-i-remote-eligible",
+      "source": "wwr",
+      "title": "Sr. Software Engineer I (Remote Eligible)",
+      "company": "Smartsheet",
+      "url": "https://weworkremotely.com/remote-jobs/smartsheet-sr-software-engineer-i-remote-eligible",
+      "location": "Anywhere in the World",
+      "salary": "",
+      "tags": [
+        "Front-End Programming",
+        "Full-Time",
+        "weworkremotely"
+      ],
+      "description": "<p> <strong>Headquarters:</strong> -REMOTE, USA- </p> <div class=\"content-intro\"><p>For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.</p></div><p>Are you looking to solve challenging engineering problems impacting Enterprise customers with 10,000+ employees? How about building a platform that contributes to mission-critical projects such as launching a rover to Mars, reducing carbon footprint by launching energy-efficient warehouses, launching critical life-saving medicines in International markets, or planning a brick-and-mortar store deployment?</p> <p>The Smartsheet Portfolio Management Pillar is looking for curious and passionate Frontend and Fullstack Software Engineers. You will help us build enterprise-grade applications within the Portfolio Collaborative Work Management space, an area that grew 4x year-over-year. Our applications manages three areas that serve our customers: A feature-rich config management tool that allows power users the ability to create their business processes; A fast and reliable orchestration engine that runs millions of distributed transactions per day; A global management service that alters the attributes of Project assets and ensures the state of the Portfolio is running and updates are managed at-scale.</p> <p>Our Engineering team members are passionate about working on multiple projects using several technologies. We are a self-operating service team and use a diverse set of Frontend (JavaScript, TypeScript, React), Backend (Ruby/Java), and Cloud-native services(AWS).</p> <p>In 2005, Smartsheet was founded on the idea that teams and millions of people worldwide deserve a better way to deliver their very best work. Today, we deliver a leading cloud-based platform for work execution, empowering organizations to plan, capture, track, automate, and report on work at scale, resulting in more efficient processes and better business outcomes.</p> <p>You will report to our Sr. Manager, Engineering, and may work remotely from anywhere in the US where Smartsheet is a registered employer.</p> <p><strong>You Will:</strong></p> <ul> <li>Design, implement, and deliver production complete solutions.</li> <li>Promote best practices in Software development and Software methodologies.</li> <li>Automate repetitive tasks to increase productivity and efficiency.</li> <li>Contribute concise documentation.</li> <li>Promote Agility as much as Reliability and Scalability.</li> </ul> <p><strong>You Have:</strong></p> <ul> <li>5+ years of engineering experience in a team environment.</li> <li>3+ years of experience in service-oriented architecture, deployment systems, and cloud infrastructure.</li> <li>Proficient in at least one high-level programming language, such as Ruby, Java, Go, Python, and TypeScript.</li> <li>Experience with modern client JS libraries, like React, and Redux.</li> <li>Experience in application migration patterns and tradeoff scenarios.</li> <li>You have a knowledge of OOP and REST design principles.</li> <li>Clear and objective writing and in-person communication.</li> <li>Curiosity to learn new technologies and systems.</li> <li>A degree in Computer Science, Engineering, or a related field or equivalent practical experience.</li> <li>Legally eligible to work in the U.S. on an ongoing basis.</li> </ul><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><strong>Current US Perks &amp; Benefits:</strong></p> <ul> <li>Employer subsidized medical/vision and dental coverage for full-time employees</li> <li>401k Match to help you save for your future (50% of your con",
+      "postedAt": "Sun, 22 Nov 2026 18:32:04 +0000",
+      "eligibilityTier": "confirmed",
+      "eligibilityReason": "Worldwide / Asia-friendly remote",
+      "matchScore": 70,
+      "matchReason": "Title is frontend-adjacent · Skills: react, typescript, javascript · Signals: spa, remote · Seniority: lead",
+      "matchedBy": "profile-matcher-v1"
+    },
+    {
+      "id": "https://weworkremotely.com/remote-jobs/descript-software-engineer-product",
+      "source": "wwr",
+      "title": "Software Engineer, Product",
+      "company": "Descript",
+      "url": "https://weworkremotely.com/remote-jobs/descript-software-engineer-product",
+      "location": "Anywhere in the World",
+      "salary": "",
+      "tags": [
+        "Full-Stack Programming",
+        "Full-Time",
+        "weworkremotely"
+      ],
+      "description": "<p> <strong>Headquarters:</strong> San Francisco, CA or Remote, US </p> <p>Product engineering at Descript means owning outcomes, not just tickets — you'll take a problem from a rough idea to a shipped, measured result, working closely with product, design, and the rest of engineering along the way. We organize around a few teams, each responsible for a distinct part of the product:</p> <ul> <li><strong>Editor:</strong> owns our video editor. Help make traditionally complex video-editing workflows simpler, craft cutting-edge AI into practical creative tools, and build on our vision of turning a text-editor for video into a tool that puts video in everyone's communication toolkit.</li> <li><strong>Growth &amp; Monetization:</strong> owns onboarding and activation, growth loops and in-product experiments, plans and pricing, checkout, billing, and AI credits. Help turn visitors into customers and customers into revenue.</li> <li><strong>Media:</strong> owns upload, transcription, diarization, alignment, drive-wide search, playback, rendering, and export (including the engine we're rewriting in Rust ). Help make media fast to bring in, easy to find, instant to play, and reliable to export.</li> <li><strong>Agent:</strong>&nbsp;owns Underlord, Descript’s AI co-editor. Build the representations, tools, harness, evals, and feedback loops that let it reason about video projects, make edits, and check its work. Help people and agents collaborate naturally, whether in the editor or through our API and MCP.</li> <li><strong>Identity &amp; Access (aka TACO):</strong> owns login, authentication and authorization, account settings, and project organization, plus the enterprise layer of workspaces, SSO/SCIM, governance, and audit logs. Help individuals become teams, and teams scale into enterprises, with the trust and security to go all in.</li> </ul> <p>Regardless of your team you’ll have the opportunity to design thoughtful full-stack systems that work reliably and deliver value to new and existing users.</p> <h1>What You’ll Do</h1> <ul> <li><strong>Own meaningful product surfaces end to end.</strong> Take problems from definition through design, implementation, launch, measurement, and maintenance. Improve core Editor workflows, shape the self-serve journey from signup through renewal, or help make Underlord more sentient.</li> <li><strong>Shape the product, not just the implementation.</strong> Partner with Product and Design to propose better interactions, expose constraints, choose the right metrics, and find simpler paths to user outcomes.</li> <li><strong>Build ambitious full-stack systems with care.</strong> Create responsive, reliable experiences. Stretch from TypeScript and React to NodeJS and Temporal to first and third party integrations to get the job done.</li> <li><strong>Improve how the team learns and ships.</strong> Form hypotheses, instrument your work, release incrementally, and read results honestly. Strengthen the tooling, standards, tests, observability, and release practices that help the team move quickly without compromising quality.</li> <li><strong>Raise the team’s technical ambition.</strong> Provide architectural direction, thoughtful reviews, mentoring, and clear human writing.</li> </ul> <h1>What You Bring</h1> <p><strong>Required:</strong></p> <ul> <li>You have 5+ years of experience building and shipping customer-facing products, including end-to-end features that measurably improved user or business outcomes.</li> <li>You effectively leverage agents to multiply your impact and think critically about how to better harness AI in your work.</li> <li>You’ve owned features/experiments end to end, from planning through launch, and leveraged analytics and metrics to evaluate impact.</li> <li>You orient quickly in unfamiliar systems by exploring and asking thoughtful questions to both your teammates and agents.</li> <li>You care about how software feels and notice when the technically correct result is still wrong",
+      "postedAt": "Mon, 23 Nov 2026 06:02:06 +0000",
+      "eligibilityTier": "confirmed",
+      "eligibilityReason": "Worldwide / Asia-friendly remote",
+      "matchScore": 66,
+      "matchReason": "Title is frontend-adjacent · Skills: react, typescript, nodejs · Signals: nodejs, spa, remote · Remote-friendly",
+      "matchedBy": "profile-matcher-v1"
+    },
+    {
+      "id": "https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-predictions-mobile",
+      "source": "wwr",
+      "title": "Senior Software Engineer, Predictions (Mobile)",
+      "company": "Gemini",
+      "url": "https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-predictions-mobile",
+      "location": "Anywhere in the World",
+      "salary": "",
+      "tags": [
+        "Front-End Programming",
+        "Full-Time",
+        "weworkremotely"
+      ],
+      "description": "<p> <strong>Headquarters:</strong> New York, New York; Miami, Florida; Remote (USA) </p> <p><strong>About the Company</strong></p> <p>Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity for all — bridging traditional finance with the emerging cryptoeconomy in a way that is more open, fair, and secure. As a publicly traded company, Gemini is poised to accelerate this vision with greater scale, reach, and impact.</p> <p><span><strong>The Department: Predictions</strong></span></p> <p><span><strong>The Role: Senior Software Engineer (Mobile)</strong></span></p> <p>As a Senior Mobile Engineer on the Predictions team, you'll own the mobile experience for Gemini's CFTC-regulated prediction markets exchange. You'll build and ship trading interfaces for event contracts — from order entry and position management to real-time market data — within Gemini's React Native app. You'll work closely with product, design, backend, and compliance to bring new contract types (binary, range, combo) to market on mobile and drive activation and retention for a fast-growing product line.</p> <p><span><strong>Responsibilities:</strong></span></p> <ul> <li>Build and maintain the Predictions mobile trading experience end-to-end: market browsing, order placement, portfolio views, and settlement flows.&nbsp;</li> <li>Architect performant, real-time UI for streaming market data (orderbook, price charts, position P&amp;L) using modern React Native patterns (TurboModules, JSI, native navigator integration).</li> <li>Collaborate with backend engineers on gRPC and WebSocket integrations that power live trading surfaces.&nbsp;</li> <li>Create reusable, well-tested UI components shared across Predictions and the broader Gemini mobile app.</li> <li>Partner with product and design to shape mobile-specific UX for new contract categories (weather, economics, crypto, sports) and features like combo contracts and range contracts.</li> <li>Scope and implement solutions independently, making informed architecture decisions and tradeoffs around native vs. JS boundaries.</li> <li>Establish and improve mobile development processes — testing strategy, release quality gates, OTA vs. native release decisions.</li> <li>Conduct thorough code reviews and mentor other engineers on React Native best practices.</li> <li>Use analytics and experimentation data to inform product and engineering decisions around activation funnels, onboarding, and trading engagement.</li> </ul> <p><strong>Minimum Qualifications:</strong></p> <ul> <li>6+ years of software engineering experience, including 4+ years building production mobile applications with React Native.&nbsp;</li> <li>Strong proficiency in TypeScript.&nbsp;</li> <li>Deep understanding of React Native internals — bridging, native modules, performance profiling, and debugging.</li> <li>Experience building real-time, data-intensive UIs (trading, dashboards, live feeds).</li> <li>Strong UX/UI sensibility with a track record of contributing to design and product decisions, not just implementing specs.</li> <li>Expertise in unit and integration testing for mobile.</li> <li>Comfort working in a regulated environment where changes require rigor and auditability.&nbsp;</li> </ul> <div class=\"p-rich_text_section\"><strong>Preferred Qualifications:</strong></div> <div class=\"p-rich_text_section\"> <ul> <li>Experience with financial or trading applications (orderbooks, charting, position management).</li> <li>Familiarity with Expo, EAS, and OTA update strategies.&nbsp;</li> <li>Experience wit",
+      "postedAt": "Sun, 22 Nov 2026 18:31:57 +0000",
+      "eligibilityTier": "confirmed",
+      "eligibilityReason": "Worldwide / Asia-friendly remote",
+      "matchScore": 64,
+      "matchReason": "Title is frontend-adjacent · Skills: react, typescript · Signals: spa, performance, remote · Seniority: senior",
+      "matchedBy": "profile-matcher-v1"
+    },
+    {
+      "id": "remote-hands-on-engineering-manager-c-vue-6698",
+      "source": "arbeitnow",
+      "title": "Hands-on Engineering Manager (C#/Vue)",
+      "company": "Miaplaza",
+      "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-c-vue-6698",
+      "location": "Remote job",
+      "salary": "",
+      "tags": [
+        "Remote"
+      ],
+      "description": "Location : 100% remote (EMEA + South America) Classification : Full-time Pay Range : €82,000–140,000; determined by several factors, including location Miaplaza is looking for two Engineering Managers to lead two of our software development teams. We’re hiring for one existing team of 7 engineers and one new team that we will hire developers into. This is a management role for someone who wants to grow as a manager while still remaining hands-on with code. You'll split your time roughly 50/50 between leading your team and doing hands-on work alongside them. About Miaplaza Miaplaza is dedicated to making education engaging and accessible through innovative online learning platforms. We develop personalized learning experiences for students, helping them grow in a supportive and interactive environment. Our vision is to elevate online learning by applying the most successful approaches in virtual education to create an accessible and inclusive education curriculum platform where all students can be successful! As an engineering manager at Miaplaza, your team will build technology with a direct impact on the lives of hundreds of thousands of students. Every step of the way, you will have the opportunity to influence our direction. Through our platforms, we create engaging, safe, and thoughtfully designed learning experiences that help children grow academically, creatively, and personally. Every feature we ship, every system we scale, and every improvement we make contributes to shaping how the next generation learns and discovers their potential. If our platform is down, a child might not go to school that day. We’re looking for leaders who want their work to matter in classrooms and homes, who care about access to quality education, and who are excited to craft technology that makes a difference in young people’s lives. Here, your impact doesn’t just power a product; it shapes future generations! What you’ll work on We’re a C# and Vue.js platform growing towards a scale that no longer matches our legacy architecture. You’ll need to work with your team balancing both product and engineering initiatives. You’ll report to our head of engineering and be expected to split your time roughly 50/50 between people management and hands-on development. Prioritization always goes to leading and supporting your engineers. How management works at Miaplaza We're a US-based company, so this may differ from what you've done before: You start as an engineer. You’ll onboard as a senior engineer on your own team for two months, begin manager onboarding in month two, and take over the team at around week 10. Both phases matter equally, and this isn’t negotiable. You stay hands-on. Around 50% of your time stays hands-on after onboarding, but leading and supporting your engineers always comes first. You teach. Growing your engineers and those around you is a core responsibility. You'll have full oversight of your direct reports' work, because you can't teach well without seeing the process behind the output. Feedback is the norm. You'll give specific reinforcement and constructive feedback whenever you notice something, and you'll receive it too. What you must bring We can only move forward with candidates who meet these requirements: 7+ years of experience in software development in one or more object-oriented programming languages 3+ years of experience with front-end software development in a reactive front-end framework 3+ years of experience with software architecture 3+ years of experience operating at a Senior, Staff, or Principal Engineer level 2+ years of experience being a mentor/leader 1+ years leading a team, formally or as a tech lead Experience working directly with product and design on scoping and prioritization Experience being on-call and resolving production incidents A bachelor's degree or equivalent practical experience What makes you stand out Experience leading a team through a significant architectural migration Experience wit",
+      "postedAt": "2026-11-23T03:31:35.000Z",
+      "remote": true,
+      "eligibilityTier": "verify",
+      "eligibilityReason": "Confirm hires in Pakistan/Asia",
+      "matchScore": 72,
+      "matchReason": "Title match: vue · Skills: react, vue · Signals: remote · Seniority: senior",
+      "matchedBy": "profile-matcher-v1"
+    }
+  ]
+}
