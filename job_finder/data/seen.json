@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T08:23:47.616Z",
+  "updatedAt": "2026-11-24T10:31:47.574Z",
   "jobs": {
     "url:https://job-boards.greenhouse.io/canonical/jobs/5211861": {
       "firstSeen": "2026-11-17",
@@ -486,6 +486,78 @@
       "title": "Hands-on Engineering Manager (C#/Vue)",
       "company": "Miaplaza",
       "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-c-vue-6698"
+    },
+    "url:https://weworkremotely.com/remote-jobs/elation-health-staff-software-engineer": {
+      "firstSeen": "2026-11-24",
+      "title": "Staff Software Engineer",
+      "company": "Elation Health",
+      "url": "https://weworkremotely.com/remote-jobs/elation-health-staff-software-engineer"
+    },
+    "sid:wwr::https://weworkremotely.com/remote-jobs/elation-health-staff-software-engineer": {
+      "firstSeen": "2026-11-24",
+      "title": "Staff Software Engineer",
+      "company": "Elation Health",
+      "url": "https://weworkremotely.com/remote-jobs/elation-health-staff-software-engineer"
+    },
+    "tc:staff software engineer|elation health": {
+      "firstSeen": "2026-11-24",
+      "title": "Staff Software Engineer",
+      "company": "Elation Health",
+      "url": "https://weworkremotely.com/remote-jobs/elation-health-staff-software-engineer"
+    },
+    "url:https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-frontend-architect-web-components-mit-gkv-erfahrung-essen-141459": {
+      "firstSeen": "2026-11-24",
+      "title": "Frontend Architect Web Components mit GKV Erfahrung (m/w/d)",
+      "company": "virtual7 GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-frontend-architect-web-components-mit-gkv-erfahrung-essen-141459"
+    },
+    "sid:arbeitnow::remote-frontend-architect-web-components-mit-gkv-erfahrung-essen-141459": {
+      "firstSeen": "2026-11-24",
+      "title": "Frontend Architect Web Components mit GKV Erfahrung (m/w/d)",
+      "company": "virtual7 GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-frontend-architect-web-components-mit-gkv-erfahrung-essen-141459"
+    },
+    "tc:frontend architect web components mit gkv erfahrung (m/w/d)|virtual7 gmbh": {
+      "firstSeen": "2026-11-24",
+      "title": "Frontend Architect Web Components mit GKV Erfahrung (m/w/d)",
+      "company": "virtual7 GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-frontend-architect-web-components-mit-gkv-erfahrung-essen-141459"
+    },
+    "url:https://www.arbeitnow.com/jobs/companies/pt-software/full-stack-developer-java-spring-boot-typescript-berlin-318262": {
+      "firstSeen": "2026-11-24",
+      "title": "Full-Stack Developer (m/w/d) – Java/Spring Boot & TypeScript",
+      "company": "P&T Software",
+      "url": "https://www.arbeitnow.com/jobs/companies/pt-software/full-stack-developer-java-spring-boot-typescript-berlin-318262"
+    },
+    "sid:arbeitnow::full-stack-developer-java-spring-boot-typescript-berlin-318262": {
+      "firstSeen": "2026-11-24",
+      "title": "Full-Stack Developer (m/w/d) – Java/Spring Boot & TypeScript",
+      "company": "P&T Software",
+      "url": "https://www.arbeitnow.com/jobs/companies/pt-software/full-stack-developer-java-spring-boot-typescript-berlin-318262"
+    },
+    "tc:full-stack developer (m/w/d) – java/spring boot & typescript|p&t software": {
+      "firstSeen": "2026-11-24",
+      "title": "Full-Stack Developer (m/w/d) – Java/Spring Boot & TypeScript",
+      "company": "P&T Software",
+      "url": "https://www.arbeitnow.com/jobs/companies/pt-software/full-stack-developer-java-spring-boot-typescript-berlin-318262"
+    },
+    "url:https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-java-software-architect-mit-gkv-erfahrung-essen-189341": {
+      "firstSeen": "2026-11-24",
+      "title": "Java Software Architect mit GKV Erfahrung (m/w/d)",
+      "company": "virtual7 GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-java-software-architect-mit-gkv-erfahrung-essen-189341"
+    },
+    "sid:arbeitnow::remote-java-software-architect-mit-gkv-erfahrung-essen-189341": {
+      "firstSeen": "2026-11-24",
+      "title": "Java Software Architect mit GKV Erfahrung (m/w/d)",
+      "company": "virtual7 GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-java-software-architect-mit-gkv-erfahrung-essen-189341"
+    },
+    "tc:java software architect mit gkv erfahrung (m/w/d)|virtual7 gmbh": {
+      "firstSeen": "2026-11-24",
+      "title": "Java Software Architect mit GKV Erfahrung (m/w/d)",
+      "company": "virtual7 GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-java-software-architect-mit-gkv-erfahrung-essen-189341"
     }
   }
 }
