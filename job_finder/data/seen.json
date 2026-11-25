@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T10:31:47.574Z",
+  "updatedAt": "2026-11-25T09:21:08.928Z",
   "jobs": {
     "url:https://job-boards.greenhouse.io/canonical/jobs/5211861": {
       "firstSeen": "2026-11-17",
@@ -558,6 +558,24 @@
       "title": "Java Software Architect mit GKV Erfahrung (m/w/d)",
       "company": "virtual7 GmbH",
       "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-java-software-architect-mit-gkv-erfahrung-essen-189341"
+    },
+    "url:https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter": {
+      "firstSeen": "2026-11-25",
+      "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter"
+    },
+    "sid:jobicy::149527": {
+      "firstSeen": "2026-11-25",
+      "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter"
+    },
+    "tc:web frontend engineer - js, css, react, flutter|canonical": {
+      "firstSeen": "2026-11-25",
+      "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter"
     }
   }
 }
