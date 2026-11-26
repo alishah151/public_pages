@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T09:21:08.928Z",
+  "updatedAt": "2026-11-26T08:59:29.079Z",
   "jobs": {
     "url:https://job-boards.greenhouse.io/canonical/jobs/5211861": {
       "firstSeen": "2026-11-17",
@@ -576,6 +576,42 @@
       "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
       "company": "Canonical",
       "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter"
+    },
+    "url:https://weworkremotely.com/remote-jobs/customer-io-senior-software-engineer-product-ai": {
+      "firstSeen": "2026-11-26",
+      "title": "Senior Software Engineer, Product/AI",
+      "company": "Customer.io",
+      "url": "https://weworkremotely.com/remote-jobs/customer-io-senior-software-engineer-product-ai"
+    },
+    "sid:wwr::https://weworkremotely.com/remote-jobs/customer-io-senior-software-engineer-product-ai": {
+      "firstSeen": "2026-11-26",
+      "title": "Senior Software Engineer, Product/AI",
+      "company": "Customer.io",
+      "url": "https://weworkremotely.com/remote-jobs/customer-io-senior-software-engineer-product-ai"
+    },
+    "tc:senior software engineer, product/ai|customer.io": {
+      "firstSeen": "2026-11-26",
+      "title": "Senior Software Engineer, Product/AI",
+      "company": "Customer.io",
+      "url": "https://weworkremotely.com/remote-jobs/customer-io-senior-software-engineer-product-ai"
+    },
+    "url:https://weworkremotely.com/remote-jobs/metamask-senior-software-engineer-assets": {
+      "firstSeen": "2026-11-26",
+      "title": "Senior Software Engineer: Assets",
+      "company": "MetaMask",
+      "url": "https://weworkremotely.com/remote-jobs/metamask-senior-software-engineer-assets"
+    },
+    "sid:wwr::https://weworkremotely.com/remote-jobs/metamask-senior-software-engineer-assets": {
+      "firstSeen": "2026-11-26",
+      "title": "Senior Software Engineer: Assets",
+      "company": "MetaMask",
+      "url": "https://weworkremotely.com/remote-jobs/metamask-senior-software-engineer-assets"
+    },
+    "tc:senior software engineer: assets|metamask": {
+      "firstSeen": "2026-11-26",
+      "title": "Senior Software Engineer: Assets",
+      "company": "MetaMask",
+      "url": "https://weworkremotely.com/remote-jobs/metamask-senior-software-engineer-assets"
     }
   }
 }
