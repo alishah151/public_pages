@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T08:59:29.079Z",
+  "updatedAt": "2026-11-27T09:13:43.833Z",
   "jobs": {
     "url:https://job-boards.greenhouse.io/canonical/jobs/5211861": {
       "firstSeen": "2026-11-17",
@@ -612,6 +612,24 @@
       "title": "Senior Software Engineer: Assets",
       "company": "MetaMask",
       "url": "https://weworkremotely.com/remote-jobs/metamask-senior-software-engineer-assets"
+    },
+    "url:https://www.arbeitnow.ch/jobs/companies/s-pro/remote-senior-react-native-engineer-zurich-397105": {
+      "firstSeen": "2026-11-27",
+      "title": "Senior React Native Engineer",
+      "company": "S-PRO",
+      "url": "https://www.arbeitnow.ch/jobs/companies/s-pro/remote-senior-react-native-engineer-zurich-397105"
+    },
+    "sid:arbeitnow::remote-senior-react-native-engineer-zurich-397105": {
+      "firstSeen": "2026-11-27",
+      "title": "Senior React Native Engineer",
+      "company": "S-PRO",
+      "url": "https://www.arbeitnow.ch/jobs/companies/s-pro/remote-senior-react-native-engineer-zurich-397105"
+    },
+    "tc:senior react native engineer|s-pro": {
+      "firstSeen": "2026-11-27",
+      "title": "Senior React Native Engineer",
+      "company": "S-PRO",
+      "url": "https://www.arbeitnow.ch/jobs/companies/s-pro/remote-senior-react-native-engineer-zurich-397105"
     }
   }
 }
