@@ -361,6 +361,29 @@ tbody tr:hover {
   color: var(--ink);
 }
 
+.apply-docs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.45rem;
+}
+
+.doc-link {
+  display: inline-block;
+  padding: 0.22rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid rgba(126, 200, 163, 0.45);
+  color: var(--accent-2);
+  font-size: 0.72rem;
+  font-weight: 600;
+  transition: background 160ms ease, color 160ms ease;
+}
+
+.doc-link:hover {
+  background: var(--accent-2);
+  color: var(--ink);
+}
+
 .empty,
 .empty-nav {
   color: var(--muted);
