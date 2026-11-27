@@ -1,11 +1,11 @@
 {
   "date": "2026-11-27",
-  "generatedAt": "2026-11-27T09:13:43.829Z",
+  "generatedAt": "2026-11-27T10:55:40.670Z",
   "meta": {
-    "fetchedCount": 955,
-    "freshCount": 930,
+    "fetchedCount": 958,
+    "freshCount": 933,
     "alreadyProcessedCount": 25,
-    "eligibleCount": 168,
+    "eligibleCount": 171,
     "droppedCount": 762,
     "confirmedCount": 0,
     "verifyCount": 1,
