@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T13:48:19.053Z",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T08:33:07.157Z",
   "meta": {
-    "fetchedCount": 960,
-    "freshCount": 935,
+    "fetchedCount": 1074,
+    "freshCount": 1049,
     "alreadyProcessedCount": 25,
-    "eligibleCount": 173,
-    "droppedCount": 762,
+    "eligibleCount": 182,
+    "droppedCount": 867,
     "confirmedCount": 0,
-    "verifyCount": 1,
-    "matchedCount": 1,
+    "verifyCount": 0,
+    "matchedCount": 0,
     "applyDocsCount": 0,
     "matcherNote": "local",
-    "refineNote": "Cursor refine failed; local matcher only",
+    "refineNote": "No jobs to refine",
     "filterNote": "Two-tier Pakistan remote filter + curated ATS + skip already-processed",
     "errors": [],
     "sources": [
@@ -26,27 +26,5 @@
       "muse"
     ]
   },
-  "jobs": [
-    {
-      "id": "remote-senior-react-native-engineer-zurich-397105",
-      "source": "arbeitnow",
-      "title": "Senior React Native Engineer",
-      "company": "S-PRO",
-      "url": "https://www.arbeitnow.ch/jobs/companies/s-pro/remote-senior-react-native-engineer-zurich-397105",
-      "location": "Remote job",
-      "salary": "",
-      "tags": [
-        "Mobile Development",
-        "Remote"
-      ],
-      "description": "S-PRO, a top-tier Digital Innovation and Software Engineering company. We specialize in providing cutting-edge services for fast-growing businesses and enterprises, with a strong focus on Finance, Renewable Energy and Healthcare domains and expertise in AI, Blockchain and Data Science. Project description: The product is one of the first licensed digital asset banks powered by Blockchain. Our team is covering the delivery part of one of the core company’s services. It allows in a very simplified manner, process of capital raising for companies and investors providing the creation of new assets, manage offerings, buy, trade and earn crypto to future-proof your investment strategy. Responsibilities: Collaborate with the team to build a mobile application Write a new mobile app using React Native and Expo, ensuring smooth performance and maintainable architecture Improve and extend the app’s functionality, including optimization of payment processing Ensure high-quality, pixel-perfect UI implementation based on provided designs Participate in planning, discovery, and implementation of new features Take ownership of feature development end-to-end, including testing and documentation Requirements: 7+ years of hands-on experience with React Native and TypeScript; Familiarity with modern React patterns and state management (e.g., Zustand or Jotai Toolkit); Experience with React Query (or similar server-state libraries); Experience with React Navigation or Expo Router; Experience with secure storage solutions and basic mobile security concepts; Familiarity with Expo modules and config plugins (optional but appreciated); Ability to work with native modules and basic Xcode/Android Studio configuration; Good understanding of testing (unit & integration) for React Native applications; Strong sense of ownership and high-degree of quality in delivered working results. Nice to have: Experience working with banking/financial applications; Experience with enterprise-grade CI/CD for mobile; Proactive communication and creative in designing new solutions. What we offer: Long team focus: we create an environment of transparent communication, and minimal bureaucracy, which leads to long-term relationships. Development of niche expertise: we are working in several niches, such as FinTech, healthcare, and logistics. Therefore, our employees can develop their own expertise in these domains. Continuous learning: we create employee development plans / personal roadmaps /quick promotion processes. Internal career development: 80% of our current executives were promoted to those positions within S-PRO. We encourage initiative. If a person wants to set new challenges and grow, we will definitely support them. Benefits and perks : Flexible schedule. Remote work model. Medical insurance Paid vacations Paid Sick-leaves. Paid State holidays. Find Jobs in Switzerland on Arbeitnow",
-      "postedAt": "2026-11-26T15:31:17.000Z",
-      "remote": true,
-      "eligibilityTier": "verify",
-      "eligibilityReason": "Confirm hires in Pakistan/Asia",
-      "matchScore": 60,
-      "matchReason": "Title is frontend-adjacent · Skills: react, typescript · Signals: spa, performance, remote · Seniority: senior",
-      "matchedBy": "profile-matcher-v1"
-    }
-  ]
+  "jobs": []
 }

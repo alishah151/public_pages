@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T08:33:07.157Z",
+  "meta": {
+    "fetchedCount": 1074,
+    "freshCount": 1049,
+    "alreadyProcessedCount": 25,
+    "eligibleCount": 182,
+    "droppedCount": 867,
+    "confirmedCount": 0,
+    "verifyCount": 0,
+    "matchedCount": 0,
+    "applyDocsCount": 0,
+    "matcherNote": "local",
+    "refineNote": "No jobs to refine",
+    "filterNote": "Two-tier Pakistan remote filter + curated ATS + skip already-processed",
+    "errors": [],
+    "sources": [
+      "remotive",
+      "remoteok",
+      "arbeitnow",
+      "himalayas",
+      "jobicy",
+      "ats",
+      "wwr",
+      "muse"
+    ]
+  },
+  "jobs": []
+}
